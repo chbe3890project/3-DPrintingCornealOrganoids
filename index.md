@@ -14,7 +14,7 @@ Plunger diameter = 19mm. Volume = π*((19mm/2)^<sup>2</sup>) * 0.00039mm = 0.11m
 **(Resolution is 0.11 μL/step), therefore steps/mL = 9,029.**
 
 ### Max flowrate
-Max = 750 rpm * 1.25mm pitch * π*((19mm/2)^<sup>2</sup>) = 265,808.2mm<sup>3</sup> = **265.8 mL/min**. 
+Max = 750 rpm * 1.25mm pitch * π*((19mm/2)^<sup>2</sup>) = 265,808.2mm^<sup>3</sup> = **265.8 mL/min**. 
 
 Limiting factors could be: torque, viscosity of the fluid, speed of digital inputs to the driver, and friction between the nut/thread. 
 
