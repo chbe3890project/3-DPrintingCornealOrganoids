@@ -2,6 +2,6 @@
 
 See mehcanical page [here](/Syringe-Pump-Assignment/mechanical)
 
-See electrical page [here](/Syringe-Pump-Assignment/electrical
+See electrical page [here](/Syringe-Pump-Assignment/electrical)
 
 ## Steps per revolution
