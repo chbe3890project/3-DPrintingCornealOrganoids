@@ -6,4 +6,4 @@
 # Electrical Wiring of Syringe Pump
 
 ![Electrical Diagram for Syringe Pump](/Syringe-Pump-Assignment/CHBE3890/Diagram.png)
-![Electrical Wiring for Syringe Pump](/Syringe-Pump-Assignment/CHBE3890/Wiring.jpg)
+![Electrical Wiring for Syringe Pump](/Syringe-Pump-Assignment/CHBE3890/Wire.jpg)
