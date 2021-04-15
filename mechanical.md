@@ -1,3 +1,8 @@
+- [Home](/Syringe-Pump-Assignment/index)
+- **[Mechanical](/Syringe-Pump-Assignment/mechanical)**
+- [Electrical](/Syringe-Pump-Assignment/electrical)
+- [Code](/Syringe-Pump-Assignment/code)
+
 # Mechanical Assembly for Syring Pump
 ## Bill of Materials
 
