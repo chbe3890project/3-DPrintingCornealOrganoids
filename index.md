@@ -11,11 +11,12 @@ Specifications of the syringe pump:
 Pitch of 8mm threaded rod = 1.25mm.
 Linear distance/step = lead/steps = 1.25mm/3200 steps = 0.00039 mm/step.
 Plunger diameter = 19mm.
-Volume = π*((19mm/2)<sup>2</sup>) * 0.00039mm = 0.11mm(<sup>3</sup>) = 0.11 μL.
+Volume = π*((19mm/2)<sup>2</sup>) * 0.00039mm = 0.11mm<sup>3</sup> = 0.11 μL.
 **(Resolution is 0.11 μL/step), therefore steps/mL = 9,029 steps.**
 
 ### Max flowrate
-Limiting factors could be: torque, viscosity of the fluid, speed of digital inputs to the driver. 
+Max = 750 rpm * 1.25mm pitch * π*((19mm/2)<sup>2</sup>) = 265,808.2mm<sup>3</sup> = **265.8 mL/min ** 
+Limiting factors could be: torque, viscosity of the fluid, speed of digital inputs to the driver, and friction between the nut/thread. 
 
 
 Reasons why you should build and program your own pump: customize to volume requirements. 
