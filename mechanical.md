@@ -9,8 +9,8 @@
 Item         | Quantity
 ------------ | -------------
 [NEMA 17 Stepper Motor](https://www.mcmaster.com/6627T66/) | 1
-[Threaded Rod - 8mm (M8 x 1.25 mm, 300mm)](https://www.mcmaster.com/1078N32) | 1
-[Linear Rod - 8mm (200 mm)](https://www.mcmaster.com/6112K44/) | 1
+[Threaded Rod - 8mm (M8 x 1.25mm, 300mm)](https://www.mcmaster.com/1078N32) | 1
+[Linear Rod - 8mm (200mm)](https://www.mcmaster.com/6112K44/) | 1
 [Aluminum Extrusion (1ft)](https://www.mcmaster.com/47065T107-47065T418/) | 1
 [Linear Bearing - 8mm](https://www.mcmaster.com/61205K75/) | 1
 [M8 Hex Nut](https://www.mcmaster.com/90592A022/) | 1
