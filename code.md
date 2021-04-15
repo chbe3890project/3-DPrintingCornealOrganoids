@@ -1,4 +1,8 @@
 # Arduino Code for Syringe Pump
+- [Home](/Syringe-Pump-Assignment/index)
+- [Mechanical](/Syringe-Pump-Assignment/mechanical)
+- [Electrical](/Syringe-Pump-Assignment/electrical)
+- **[Code](/Syringe-Pump-Assignment/code)**
 
 Below is code that works for the Arduino Uno and Mega. Copy and paste into the Arduino IDE. 
 ```
