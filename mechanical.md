@@ -1,9 +1,9 @@
-- [Home](/Syringe-Pump-Assignment/index)
-- **[Mechanical](/Syringe-Pump-Assignment/mechanical)**
-- [Electrical](/Syringe-Pump-Assignment/electrical)
-- [Code](/Syringe-Pump-Assignment/code)
+- [Home](/3-DPrintingCornealOrganoids/index)
+- **[Mechanical](/3-DPrintingCornealOrganoids/mechanical)**
+- [Electrical](/3-DPrintingCornealOrgnaoids/electrical)
+- [Software](/3-DPrintingCornealOrganoids/software)
 
-# Mechanical Assembly for Syring Pump
+# Mechanical Assembly
 ## Bill of Materials
 
 Item         | Quantity
@@ -17,8 +17,8 @@ Item         | Quantity
 [T Nut and Bold](https://www.mcmaster.com/47065T139/) | 1
 
 
-## Fusion 360 Model
+## Fusion 360 Model(s)
 <iframe src="https://vanderbilt394.autodesk360.com/shares/public/SH919a0QTf3c32634dcfff3f842e03518f28?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 
-![Assembled Syringe](/Syringe-Pump-Assignment/CHBE3890/Pump.jpg)
+
