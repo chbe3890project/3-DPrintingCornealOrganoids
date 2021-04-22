@@ -1,26 +1,24 @@
-# How to Build a Syringe Pump
+# Project Overview: (design/workflow/overview)
 
-- **[Home](/Syringe-Pump-Assignment/index)**
-- [Mechanical](/Syringe-Pump-Assignment/mechanical)
-- [Electrical](/Syringe-Pump-Assignment/electrical)
-- [Code](/Syringe-Pump-Assignment/code)
+- **[Home](/3-DPrintingCornealOrganoids/index)**
+- [Mechanical](/3-DPrintingCornealOrganoids/mechanical)
+- [Electrical](/3-DPrintingCornealOrganoids/electrical)
+- [Software](/3-DPrintingCornealOrganoids/software)
 
-Specifications of the syringe pump:
+Specifications of the printer/extruder:
+## Fusion 360 3D Model
+Model here
 
-### Steps per mL calculation 
-Pitch of 8mm threaded rod = 1.25mm.
-Linear distance/step = lead/steps = 1.25mm/3200 steps = 0.00039 mm/step.
-Plunger diameter = 19mm. Volume = π*((19mm/2)^<sup>2</sup>) * 0.00039mm = 0.11mm^<sup>3</sup> = 0.11 μL.
-**(Resolution is 0.11 μL/step), therefore steps/mL = 9,029.**
+### Components
+Explanation of basic desktop 3D printer/extruder assembly
 
-### Max flowrate
-Max = 750 rpm * 1.25mm pitch * π*((19mm/2)^<sup>2</sup>) = 265,808.2mm^<sup>3</sup> = **265.8 mL/min**. 
+### Extrusion design/rate
+Extruder details (dimensions, components for each layer)
+Shear stress considerations
 
-Limiting factors could be: torque, viscosity of the fluid, speed of digital inputs to the driver, and friction between the nut/thread. 
+### Speed of print/sol-gel transition
+Time considerations
 
-
-Reasons why you should build and program your own pump: customize to volume requirements. 
-
-See: [mehcanical page](/Syringe-Pump-Assignment/mechanical), [electrical page](/Syringe-Pump-Assignment/electrical), [code page](/Syringe-Pump-Assignment/code).
+See: [mehcanical page](/3-DPrintingCornealOrganoids/mechanical), [electrical page](/3-DPrintingCornealOrganoids/electrical), [software page](/3-DPrintingCornealOrganoids/mechanical).
 
 
