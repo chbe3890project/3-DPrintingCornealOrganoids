@@ -1,7 +1,10 @@
 - [Home](/3-DPrintingCornealOrganoids/index)
 - **[Mechanical](/3-DPrintingCornealOrganoids/mechanical)**
-- [Electrical](/3-DPrintingCornealOrgnaoids/electrical)
+- [Electrical](/3-DPrintingCornealOrganoids/electrical)
 - [Software](/3-DPrintingCornealOrganoids/software)
+- [Materials](/3-DPrintingCornealOrganoids/materials)
+- [Cells](/3-DPrintingCornealOrganoids/cells)
+
 
 # Mechanical Assembly
 ## Bill of Materials
