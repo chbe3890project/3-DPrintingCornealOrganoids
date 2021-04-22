@@ -12,12 +12,12 @@ Specifications of the printer/extruder:
 Model here
 
 ### Components
-Explanation of basic desktop 3D printer/extruder assembly
-Separate bioreactors
+- Explanation of basic desktop 3D printer/extruder assembly
+- Separate bioreactors
 
 ### Extrusion design/rate
-Extruder details (dimensions, components for each layer)
-Shear stress considerations
+- Extruder details (dimensions, components for each layer)
+- Shear stress considerations
 
 ### Speed of print/sol-gel transition
 Time considerations
