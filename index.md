@@ -1,7 +1,3 @@
-# Project Overview: 
-
-Overview of bioprinter design/workflow details
-
 - **[Home](/3-DPrintingCornealOrganoids/index)**
 - [Mechanical](/3-DPrintingCornealOrganoids/mechanical)
 - [Electrical](/3-DPrintingCornealOrganoids/electrical)
@@ -9,6 +5,8 @@ Overview of bioprinter design/workflow details
 - [Materials](/3-DPrintingCornealOrganoids/materials)
 - [Cells](/3-DPrintingCornealOrganoids/cells)
 
+# Project Overview: 
+- Overview of bioprinter design/workflow details
 
 ## Explanation of design/intent
 
