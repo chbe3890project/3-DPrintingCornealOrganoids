@@ -8,7 +8,7 @@
 
 ## Rationale for materials selection
 
-## Chemistry (composition, crosslinking mechanism (UV radical initiation) and kinetics)
+## Chemistry: composition, crosslinking mechanism (UV radical initiation) and kinetics
 
 ## Extrusion design/rate
 - Extruder details (dimensions, components for each layer)
