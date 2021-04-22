@@ -17,3 +17,6 @@ The cornea has 5 distinct layers, all of which have their own specific compositi
 
 ## GMP considerations
 - Sterility: aseptic technique – separate bioreactors, new material/swapping between nozzles
+
+
+## References
