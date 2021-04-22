@@ -2,6 +2,9 @@
 - [Mechanical](/3-DPrintingCornealOrganoids/mechanical)
 - **[Electrical](/3-DPrintingCornealOrganoids/electrical)**
 - [Software](/3-DPrintingCornealOrganoids/software)
+- [Materials](/3-DPrintingCornealOrganoids/materials)
+- [Cells](/3-DPrintingCornealOrganoids/cells)
+
 
 # Bill of Materials (commercial parts- no wire/connectors)
 
