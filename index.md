@@ -1,4 +1,6 @@
-# Project Overview: (design/workflow/overview)
+# Project Overview: 
+
+Overview of bioprinter design/workflow details
 
 - **[Home](/3-DPrintingCornealOrganoids/index)**
 - [Mechanical](/3-DPrintingCornealOrganoids/mechanical)
@@ -11,6 +13,7 @@ Model here
 
 ### Components
 Explanation of basic desktop 3D printer/extruder assembly
+Separate bioreactors
 
 ### Extrusion design/rate
 Extruder details (dimensions, components for each layer)
