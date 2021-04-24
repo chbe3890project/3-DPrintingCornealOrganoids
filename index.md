@@ -20,6 +20,6 @@
 - Time/operation considerations
 
 
-See: [mehcanical page](/3-DPrintingCornealOrganoids/mechanical), [electrical page](/3-DPrintingCornealOrganoids/electrical), [software page](/3-DPrintingCornealOrganoids/mechanical).
+See: [mechanical page](/3-DPrintingCornealOrganoids/mechanical), [electrical page](/3-DPrintingCornealOrganoids/electrical), [software page](/3-DPrintingCornealOrganoids/mechanical).
 
 
