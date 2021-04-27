@@ -49,4 +49,12 @@ Since nozzle sizes for this application are small, shear stress induced on encap
 - For safety: amber UV-protective goggles should be worn at all times to provide eye protection
 
 ## References
+[1] T. F. Dyrlund, E. T. Poulsen, C. Scavenius, C. L. Nikolajsen, I. B. Thøgersen, H. Vorum, and J. J. Enghild, “Human Cornea Proteome: Identification and Quantitation of the Proteins of the Three Main Layers Including Epithelium, Stroma, and Endothelium,” Journal of Proteome Research, vol. 11, no. 8, pp. 4231–4239, 2012. 
+
+[2] T. U. Nguyen, K. E. Watkins, and V. Kishore, “Photochemically crosslinked cell‐laden methacrylated collagen hydrogels with high cell viability and functionality,” Journal of Biomedical Materials Research Part A, vol. 107, no. 7, pp. 1541–1550, Feb. 2019. 
+
+[3] D. Barati, S. Kader, S. R. Pajoum Shariati, S. Moeinzadeh, R. H. Sawyer, and E. Jabbari, “Synthesis and Characterization of Photo-Cross-Linkable Keratin Hydrogels for Stem Cell Encapsulation,” Biomacromolecules, vol. 18, no. 2, pp. 398–412, Dec. 2016. 
+
+[4] A. Isaacson, S. Swioklo, and C. J. Connon, “3D bioprinting of a corneal stroma equivalent,” Experimental Eye Research, vol. 173, pp. 188–193, Aug. 2018. 
+
 
