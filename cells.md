@@ -21,7 +21,7 @@ In brief, differentiated corneal endothelial cells are deposited on 12-well Tran
 
 ![Differentiation Flowchart](/3-DPrintingCornealOrganoids/CHBE3890/Flowchart.jpg)
 
-A general workflow is shown below. Be sure to check sources for small molecule concentration and specific cell culture practices. 
+A general workflow is shown below. All plates should be coated with Matrigel unless otherwise stated. Be sure to check sources for small molecule concentration and specific cell culture practices. 
 
 **Endothelial Differentiation**
 
@@ -34,14 +34,20 @@ A general workflow is shown below. Be sure to check sources for small molecule c
 5. Change media to nueral crest induction media + CHIR
    1. Incubate for 2 days
 6. Change media to CEC induction media + SB431542, H-1125
+   1. Replace media daily until confluency
 
 **Stromal Keratinocyte Differentiation**
 
-1. Item 1
-1. Item 2
-1. Item 3
-   1. Item 3a
-   1. Item 3b
+1. Culture hiPSCs in hESC Serum-free media until 60-80% confluency
+1. Change media to KSR media + SB431542, LDN193189
+   1. Replace media after 24 hr
+3. Change media to KSR media + SB431542, LDN193189, CHIR 99021
+4. After 24 hours, change media to KSR media + SB431542, CHIR 99021
+5. After 24 hours, change media to a 75:25 mixture of KSR media + SB431542, CHIR 99021 and N2 media + CHIR
+6. Every 48 hours, update mixture ratio by 25% until composition is 100% N2
+7. Sort cells for HNK1+ and p75+ cells and transfer to new plate 
+8. Replace media with Advanced DMEM + FGF2, ascorbic acid-2-phosphate
+   1. Replace media every other day until confleuncy
 
 **Corneal Epithelial Differentiation**
 
