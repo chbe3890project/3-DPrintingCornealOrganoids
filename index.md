@@ -20,6 +20,10 @@ Therefore, we propose that the application of 3D models of the human cornea coul
 ## Innovation
 Our proposed design offers several advantages over existing techniques for corneal construct development, including the following items:
 
+*We are developing elements of a drug screening platform.
+  *A majority of previous research in corneal modeling has attempted clinical translation, intensifying designs with several complex elements of physiology that do not allow for reuse at earlier stages of drug development [4].
+    *Therefore, there remains a general lack of anatomically representative models of the cornea to empower ocular drug screening, despite the associated market size.
+
 ## Approach
 To satisfy the drug screening purpose of our design, we sought to develop conceptual setting 3 within the fabrication timeline in the figure below [4]:
 
