@@ -6,7 +6,7 @@
 - [Cells](/3-DPrintingCornealOrganoids/cells)
 
 
-### Bill of Materials (commercial parts- no wire/connectors)
+### Bill of Materials (commercial only - no wires/connectors)
 
 Item (Part Number) | Quantity (Price USD)
 ----------------- | ------------------
