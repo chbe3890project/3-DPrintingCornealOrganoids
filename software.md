@@ -5,8 +5,7 @@
 - [Materials](/3-DPrintingCornealOrganoids/materials)
 - [Cells](/3-DPrintingCornealOrganoids/cells)
 
-### Open-source software tools were chosen for modularity and rapid-prototyping in mind with added benefit of lower costs than commercial software packages. The combination of these programs allow specific control/modification of machine movements, fast troubleshooting that is adaptable to our hardware platform. More information on these open-source softwares can be found at this source: 
-_C. Pakhomova, D. Popov, E. Maltsev, I. Akhatov, and A. Pasko, “Software for Bioprinting,” Int J Bioprint, vol. 6, no. 3, Jun. 2020, doi: 10.18063/ijb.v6i3.279._
+### Open-source software tools were chosen for modularity and rapid-prototyping in mind with added benefit of lower costs than commercial software packages. The combination of these programs allow specific control/modification of machine movements, fast troubleshooting that is adaptable to our hardware platform. More information on these open-source softwares can be found at the reference listed. 
 
 * Note: this inexpensive system is intended for use by trained lab technicians with some experience with 3D CAD design tools and assumed proficient to install and use these softwares on a desktop workstation. A desktop workstation was chosen as opposed to developing a custom mobile application due to the readily available open-source options that are simpler and more efficient for customizing/testing this process. All softwares listed below are free to download. 
 
@@ -31,3 +30,5 @@ G1 X50 Y20 E15
 // X=_ Y =_ are coordinates
 // E=_ extrusion drive instructions to deposit/retract bioink
 ```
+## References
+[1] _C. Pakhomova, D. Popov, E. Maltsev, I. Akhatov, and A. Pasko, “Software for Bioprinting,” Int J Bioprint, vol. 6, no. 3, Jun. 2020, doi: 10.18063/ijb.v6i3.279._
