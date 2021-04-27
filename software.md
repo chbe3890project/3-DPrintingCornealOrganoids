@@ -20,7 +20,7 @@ Software| Features/Benefits & Download
 ### Diagram of open-source softwares used to process imported 3D solid modeling file and generate, visualize and edit the g-Code for the Arduino microcontroller (modified from above reference). ![Image of g-Code editors](/3-DPrintingCornealOrganoids/SoftwareImages/gCodeAPI.png)
 
 ### Diagram of overall information flow from desktop software (G-code) -> Firmware (translated signal) -> micro-controller (step pulses) -> stepper and UV LED drivers (UV LED on/off, motor X Y Z motion)
-![Image of PetriPrinter Interface](/3-DPrintingCornealOrganoids/SoftwareImages/SystemLevelDiagram.png)
+![Image of System Level Flow](/3-DPrintingCornealOrganoids/SoftwareImages/SystemLevelDiagram.png)
 
 ### PetriPrinter interface allows customization to the g-Code to accomodate desired printing patterns
 ![Image of PetriPrinter Interface](/3-DPrintingCornealOrganoids/SoftwareImages/PetriPrinter.png)
