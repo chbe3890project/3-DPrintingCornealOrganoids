@@ -5,8 +5,6 @@
 - [Materials](/3-DPrintingCornealOrganoids/materials)
 - [Cells](/3-DPrintingCornealOrganoids/cells)
 
-
-# Explaination of design choice
 ### Open-source software tools were chosen for modularity and rapid-prototyping in mind and to reduce premium costs of commercial software packages. Combined these programs will allow specific control/modification of machine movements, fast troubleshooting that can be easily adapted to our hardware platform. More information on these open-source softwares can be found at this source: 
 _C. Pakhomova, D. Popov, E. Maltsev, I. Akhatov, and A. Pasko, “Software for Bioprinting,” Int J Bioprint, vol. 6, no. 3, Jun. 2020, doi: 10.18063/ijb.v6i3.279._
 
