@@ -24,7 +24,9 @@ The keratin-based epithelial layer will be composed of UV-crosslinkable allylate
 Allylation and UV crosslinking of keratin bioink
 
 Both the collagen and keratin-based hydrogels will use Irgacure as a photoinitiator. Irgacure has shown to be an effective photoinitiator in bioprinting applications. It allows the hydrogels to be crosslinked at 365nm UV light, which is within the range of wavelengths of UV suitable for gels encapsulating cells. Cure time for the collagen layers will include 30 minutes of thermal gelation at 37 degrees Celsius, followed by 1 minute of UV crosslinking. The keratin layer will be crosslinked with UV for 5 minutes immediately after deposition.
+
 ![Irgacure](/3-DPrintingCornealOrganoids/Chemistry/Irgacure.jpeg)
+
 Photoinitiator (Irgacure 2959) used for all bioinks 
 
 ## Extrusion design
