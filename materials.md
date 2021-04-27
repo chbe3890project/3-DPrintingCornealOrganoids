@@ -50,7 +50,7 @@ Since nozzle sizes for this application are small, shear stress induced on encap
 - The unit will be housed in a standard Biosafety Hood
 - For safety: amber UV-protective goggles should be worn at all times to provide eye protection
 - The proposed order of printing the 3 matrix layers (onto prepared endothelial monolayer) is shown below in the schematic from reference [5]. The separate deposition/printing steps simplify the procedure and UV crosslinking once after all layers have been deposited avoids addition of unnecessary stress and damage to cells which enhances their viability.  
-- [PrintingSchematic](3-DPrintingCornealOrganoids/SoftwareImages/PrintConcept.png)
+![PrintingSchematic](/3-DPrintingCornealOrganoids//SoftwareImages/PrintConcept.png)
 
 ## References
 [1] T. F. Dyrlund, E. T. Poulsen, C. Scavenius, C. L. Nikolajsen, I. B. Thøgersen, H. Vorum, and J. J. Enghild, “Human Cornea Proteome: Identification and Quantitation of the Proteins of the Three Main Layers Including Epithelium, Stroma, and Endothelium,” Journal of Proteome Research, vol. 11, no. 8, pp. 4231–4239, 2012. 
