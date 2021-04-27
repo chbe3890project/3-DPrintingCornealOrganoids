@@ -12,7 +12,7 @@
 
 The cell types used in this Bioplotter were selected to meet the goals of corneal organoid production for drug screening. Many biomedical models utilize animal cells to mitigate ethical and financial concerns, but such models provide inaccurate physiological conditions due to species’ differences in protein expression and immunological response. The use of human-induced pluripotent stem cells (hiPSCs) allows for a readily expandable, robust and tunable model system capable of better recreating human physiology. hiPSCs offer a more clinically relevant drug screening platform due to their analogous developmental schemes and reproduction of many biological functions. The cost of such a model is expected to decline in the future as differentiation protocols are optimized and new small molecules are mass produced for cell varieties. 
 
-Using hiPSCs, an initial cell line can be expanded and cultivated to produce cell populations for each of the three cellular layers printed using this Bioplotter. Differentiation protocols for the endothelial, stromal, and epithelial layers are outlined below, but more detailed descriptions can be found in their respective sources at the bottom of this page. 
+Using hiPSCs, an initial cell line can be expanded and cultivated to produce cell populations for each of the three cellular layers printed using this Bioplotter. Differentiation protocols for the endothelial, stromal, and epithelial layers are outlined below, but more detailed descriptions can be found in their respective sources at the bottom of this page. A list of required media and small molecules is also included. 
 
 ## Differentiation of hiPSCs
 
