@@ -60,7 +60,7 @@ A general workflow is shown below. All plates should be coated with Matrigel unl
 
 **Bioplotting Workflow**
 
-In brief, differentiated corneal endothelial cells are deposited on 12-well Transwell filters coated with Matrigel. The endothelium should be incubated for 2 days at 37 °C to allow the formation of a confluent monolayer. The first printed layer, comprising dispersed differentiated corneal keratinocytes, is deposited onto the endothelial monolayer. Corneal keratinocytes have been shown to organize into a stromal layer by directed self-assembly. Once the gel is cured, the acellular hydrogel support layer is printed. Finally, the differentiated epithelial cells are deposited on the hydrogel support. 
+In brief, differentiated corneal endothelial cells are deposited on 12-well Transwell filters coated with Matrigel. The endothelium should be incubated for 2 days at 37 °C to allow the formation of a confluent monolayer. The first printed layer, comprising dispersed differentiated corneal keratinocytes, is deposited onto the endothelial monolayer. Corneal keratinocytes have been shown to organize into a stromal layer by directed self-assembly [2]. Once the gel is cured, the acellular hydrogel support layer is printed. Finally, the differentiated epithelial cells are deposited on the hydrogel support. hiPSC-derived corneal epithelial cells have been shown to form a stratified epithelial layer when cast across a hydrogel surface [4].
 
 ## Validation
 
