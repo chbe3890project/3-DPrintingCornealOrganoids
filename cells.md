@@ -86,6 +86,7 @@ Trans-corneal drug permeability is evaluated using diffusion experiments for thr
 
 
 ## Bill of Materials
+**(For Differentiations)**
 
 **Media Required**
 
@@ -106,7 +107,24 @@ CnT-30 M.     | CELLnTEC
 
 Item         | Vendor
 ------------ | -------------
-hESC SFM     | 1
+bFGF     | Thermo
+SB431542    | Tocris
+LDN193189   | Tocris
+IWP2   | Tocris
+CHIR   | Tocris
+H-1125   | Tocris
+LDN-193189   | Tocris
+Ascorbic acid-2-phospate   | Sigma
+Human laminin-521   | Thermo
+GlutaMAX   | Thermo
+Mercaptoethanol   | Sigma
+Blebbistatin   | Sigma
+SB-505124   | Tocris
+BMP-4   | Sigma
+Collagen IV   | Sigma
+Calcein-AM   | Sigma
+Ethidium homodimer-1   | Thermo
+
 
 
 ## References
