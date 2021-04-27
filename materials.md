@@ -12,7 +12,7 @@ The cornea has 5 distinct layers, all of which have their own specific compositi
 Since the main component of both the endothlium and stroma is collagen, the hydrogel material for these layers will be Type I collagen. For the epithelium, a keratin-based hydrogel using keratin extracted from hair will be used. Using a naturally occurring material that is found in these layers will better recapitulate the ECM to promote cell growth and organization, as well as create a platform that can be representative of in vivo corneas for drug screening.
 
 
-## Chemistry: composition, crosslinking mechanism (UV radical initiation) and kinetics
+## Chemistry: composition, crosslinking mechanism, and kinetics
 The collagen-based gel for both the endothelium and stroma will be formulated from UV-crosslinkable [methacrylated collagen](https://advancedbiomatrix.com/photocol-irg.html) will be used for these layers of the print. The components of the PhotoCol-Irg Kit can be see in the image below. Briefly, the desired volume of photoinitiator (0.02%) will be solubilized in ethanol and mixed with the methacrylated collagen solution (8mg/mL; PhotoCol-Irg, Advanced BioMatrix, San Diego, CA) (Nguyen et al.). The endothelial layer will be cast in the well plate and cured, and then cells seeded directly onto the surface of the gel. The stromal layer will include encapsulated cells and will be printed directly onto the endothelial layer. 
 ![PhotoCol(R)-Irg Kit](/3-DPrintingCornealOrganoids/Chemistry/PhotoCol.jpg)
 PhotoCol-Irg Kit from Advanced Biomatrix
