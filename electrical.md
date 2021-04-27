@@ -15,53 +15,42 @@ Item (Part Number) | Quantity (Price USD)
 **Herolab UV hand-held lamp Model IV (254/365 nm)** ([No. H469.1](https://www.carlroth.com/com/en/uv-hand-held-lamps/uv-hand-held-lamp-model-iv/p/h469.1?emcs0=12&emcs1=Produktdetailseite&emcs2=null&emcs3=333676)) | 1 (€566.55)
 **Herolab Accessories Table tripod For UV hand-held lamp** ([No.  H470.1](https://www.carlroth.com/com/en/uv-hand-held-lamps/accessories-table-tripod-for-uv-hand-held-lamp/p/h470.1))| 1 (€163.40)
 
+The IOT Relay (pictured below) allows the electrical switch to the UV lamp power supply to be controlled by the microcontroller by activating an electromagnet through the Arduino. The UV lamp power cord is plugged into the Normally Off (closed) output of the Relay Module. An external power outlet provides the AC power source to the Relay Module. 
 
-### IOT Relay connects positive side to pin 7 of the Arduino and grounded side to the ground pin:
-![Arduino and IOT Relay](/3-DPrintingCornealOrganoids/SoftwareImages/ArduinoIOT.jpg)
+### IOT Power Relay Module 
+![IOT Power Relay](/3-DPrintingCornealOrganoids/SoftwareImages/IOTPowerRelay.jpg)
+
+### IOT Relay connects positive side of terminal block to pin 7 of the Arduino Uno and grounded side to the ground pin:
+![Arduino and IOT Relay Diagram](/3-DPrintingCornealOrganoids/SoftwareImages/RelayArduinoAC.png)
 
 ### UV Lamp with 300 x 700 mm filter size attached to a metal tripod, height adjustable to 50-270 mm: 
 ![Handheld UV lamp connected to tripod stand](/3-DPrintingCornealOrganoids/SoftwareImages/UVLamp.jpg)
 
-* Note for additional software needed:  IoT_Power_Relay code from GitHub,
-* Connecting IOT relay: Pin 7 positve side of green input, ground plugged into ground of green input
-* IOT Relay: Enclosed High-power Power Relay for Arduino, Raspberry Pi, PIC or Wifi, Relay Shield - comes with power cable and connector to Arduino
-* Other specifications of the handheld UV lamp: L x W x H= 485 x 85 x 80 mm, Mains connection (220 V, 50 Hz) and weight 1650 g (~ 3 lbs)
+Other details:
+* IOT Power Relay device: an enclosed High-power Power Relay compatible with Arduino, Raspberry Pi, PIC or Wifi, Relay Shield - equipped with power cable and connector for Arduino 
+* Other specifications of the handheld UV lamp: L x W x H dimensions = 485 x 85 x 80 mm, Mains connection (220 V, 50 Hz) and weight 1650 g (~ 3 lbs)
  
 ### References: 
-_“Design and implementation of a low cost bio-printer modification, allowing for switching between plastic and gel extrusion | Elsevier Enhanced Reader.”_
+_[1] “Design and implementation of a low cost bio-printer modification, allowing for switching between plastic and gel extrusion | Elsevier Enhanced Reader.”_
+_[2] “Relay Module interfacing with Arduino - Arduino Relay Module,” Electronics Hobbyists, Feb. 08, 2017. https://electronicshobbyists.com/relay-module-interfacing-with-arduino-arduino-relay-module/ (accessed Apr. 27, 2021)._
 
 ### Electrical Wiring 
 Flow chart for wiring and digital logic:
 ![Electrical Wiring for Syringe Pump](/3-DPrintingCornealOrganoids/SoftwareImages/Diagram.png)
 
 ### Control of specialty components
- Details about UV light switch on/off, duration mechanism for curing
+ Below is an example code from reference [2] for defining the Arduino relay input to control the AC device. Instructions for specific timing the UV light on/off signal are defined in the firmware. The lamp is plugged in the Normally Off port, and will receive a signal to initiate once printing is complete to cure for a duration of 1 minute (minimum exposure to minimize toxicity) stored in the binary code instructions uploaded to the microcontroller. 
+ * Note additional software needed:  IoT_Power_Relay code from GitHub
 ```
-#define sensorPin A5
 #define powerPin 7
-
-void setup() {
-
-  pinMode(powerPin, OUTPUT);
-  Serial.begin(9600);
+int relay_pin = 8;
+void setup(){ 
+  pinMode(relay_pin,OUTPUT);
 }
-
-void loop() {
-
-  int reading = analogRead(sensorPin);
-  float voltage = reading * 5.0;
-  voltage /= 1024.0;
-  float temperatureC = (voltage - 0.5) * 100 ;
-  float temperatureF = (temperatureC * 9.0 / 5.0) + 32.0;
-
-  Serial.println(temperatureF);
-
-  if (temperatureF > 80){
-    digitalWrite(powerPin, HIGH);  
-  } else {
-    digitalWrite(powerPin, LOW);
-  }
-
-  delay(1000);
+void loop(){
+  digitalWrite(relay_pin,HIGH);
+  delay(5000);
+  digitalWrite(relay_pin,LOW);
+  delay(5000);
 }
 ```
