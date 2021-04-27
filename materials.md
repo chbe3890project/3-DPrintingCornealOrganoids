@@ -49,6 +49,7 @@ Since nozzle sizes for this application are small, shear stress induced on encap
 - Components will be autoclaved (ex. nozzles after use to reduce risk of contamination) before installation
 - The unit will be housed in a standard Biosafety Hood
 - For safety: amber UV-protective goggles should be worn at all times to provide eye protection
+- The proposed order of printing the 3 matrix layers (onto prepared endothelial monolayer) is shown below in the schematic from reference [5]: [PrintingSchematic](3-DPrintingCornealOrganoids/SoftwareImages/PrintConcept.png)
 
 ## References
 [1] T. F. Dyrlund, E. T. Poulsen, C. Scavenius, C. L. Nikolajsen, I. B. Thøgersen, H. Vorum, and J. J. Enghild, “Human Cornea Proteome: Identification and Quantitation of the Proteins of the Three Main Layers Including Epithelium, Stroma, and Endothelium,” Journal of Proteome Research, vol. 11, no. 8, pp. 4231–4239, 2012. 
@@ -58,5 +59,8 @@ Since nozzle sizes for this application are small, shear stress induced on encap
 [3] D. Barati, S. Kader, S. R. Pajoum Shariati, S. Moeinzadeh, R. H. Sawyer, and E. Jabbari, “Synthesis and Characterization of Photo-Cross-Linkable Keratin Hydrogels for Stem Cell Encapsulation,” Biomacromolecules, vol. 18, no. 2, pp. 398–412, Dec. 2016. 
 
 [4] A. Isaacson, S. Swioklo, and C. J. Connon, “3D bioprinting of a corneal stroma equivalent,” Experimental Eye Research, vol. 173, pp. 188–193, Aug. 2018. 
+
+[5] S. Shafaie, V. Hutter, M. T. Cook, M. B. Brown, and D. Y. S. Chau, “In Vitro Cell Models for Ophthalmic Drug Development Applications,” Biores Open Access, vol. 5, no. 1, pp. 94–108, Apr. 2016, doi: 10.1089/biores.2016.0008.
+
 
 
