@@ -16,7 +16,7 @@ Item (Part Number) | Quantity (Price USD)
 **Herolab Accessories Table tripod For UV hand-held lamp** ([No.  H470.1](https://www.carlroth.com/com/en/uv-hand-held-lamps/accessories-table-tripod-for-uv-hand-held-lamp/p/h470.1))| 1 (€163.40)
 
 
-### IOT Relay connects positive side to pin 7 of the Arduino and grounded side to the ground pin
+### IOT Relay connects positive side to pin 7 of the Arduino and grounded side to the ground pin:
 ![Arduino and IOT Relay](/3-DPrintingCornealOrganoids/SoftwareImages/ArduinoIOT.jpg)
 
 ### UV Lamp with 300 x 700 mm filter size attached to a metal tripod, height adjustable to 50-270 mm: 
