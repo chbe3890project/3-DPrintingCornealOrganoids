@@ -40,5 +40,6 @@ Photoinitiator (Irgacure 2959) used for all bioinks
 - New material will be added and sterile filted using Millex-GP Syringe Filter 0.22 µm polyethersulfone units fore adding to extruders 
 - Components will be autoclaved (ex. nozzles after use to reduce risk of contamination) before installation
 - The unit will be housed in a standard Biosafety Hood
-- For safety: amber UV-protective goggles should be worn at all times 
+- For safety: amber UV-protective goggles should be worn at all times to provide eye protection
+
 ## References
