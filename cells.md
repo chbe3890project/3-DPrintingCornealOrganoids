@@ -26,12 +26,12 @@ A general workflow is shown below. All plates should be coated with Matrigel unl
 1. Culture hiPSCs in hESC Serum-free media until confluency
 1. Change media to N2B27 priming media + bFGF
    1. Incubate for 2 days
-3. Change media to N2B27 priming media + SB431542, LDN193189, IWP2
+1. Change media to N2B27 priming media + SB431542, LDN193189, IWP2
    1. Change fresh media daily for 6 days
-4. Dissociate cells and transfer to new Matrigel coated plate
-5. Change media to nueral crest induction media + CHIR
+1. Dissociate cells and transfer to new Matrigel coated plate
+1. Change media to nueral crest induction media + CHIR
    1. Incubate for 2 days
-6. Change media to CEC induction media + SB431542, H-1125
+1. Change media to CEC induction media + SB431542, H-1125
    1. Replace media daily until confluency
 
 **Stromal Keratinocyte Differentiation [2,3]**
@@ -39,12 +39,12 @@ A general workflow is shown below. All plates should be coated with Matrigel unl
 1. Culture hiPSCs in hESC Serum-free media until 60-80% confluency
 1. Change media to KSR media + SB431542, LDN193189
    1. Replace media after 24 hr
-3. Change media to KSR media + SB431542, LDN193189, CHIR 99021
-4. After 24 hours, change media to KSR media + SB431542, CHIR 99021
-5. After 24 hours, change media to a 75:25 mixture of KSR media + SB431542, CHIR 99021 and N2 media + CHIR
-6. Every 48 hours, update mixture ratio by 25% until composition is 100% N2
-7. Sort cells for HNK1+ and p75+ cells and transfer to new plate 
-8. Replace media with Advanced DMEM + bFGF, ascorbic acid-2-phosphate
+1. Change media to KSR media + SB431542, LDN193189, CHIR 99021
+1. After 24 hours, change media to KSR media + SB431542, CHIR 99021
+1. After 24 hours, change media to a 75:25 mixture of KSR media + SB431542, CHIR 99021 and N2 media + CHIR
+1. Every 48 hours, update mixture ratio by 25% until composition is 100% N2
+1. Sort cells for HNK1+ and p75+ cells and transfer to new plate 
+1. Replace media with Advanced DMEM + bFGF, ascorbic acid-2-phosphate
    1. Replace media every other day until confleuncy
 
 **Corneal Epithelial Differentiation [4,5]**
@@ -52,10 +52,10 @@ A general workflow is shown below. All plates should be coated with Matrigel unl
 1. Culture hiPSCs on laminin coated plates in Essential 8 media until confluency
 1. Dissociate cells and transder to new plate with a halved concentration of laminin
    1. Change media to XF-ko-SR Media + GlutaMAX, mercaptoethanol, and blebbistatin
-3. The next day, change media to XF-ko-SR Media + SB-505124 and bFGF
-4. After 24 hours, change media to XF-ko-SR Media + BMP-4
+1. The next day, change media to XF-ko-SR Media + SB-505124 and bFGF
+1. After 24 hours, change media to XF-ko-SR Media + BMP-4
    1. Replace media after 24 hours
-5. Dissociate cells and transfer to new plate coated with laminin and collagen IV
+1. Dissociate cells and transfer to new plate coated with laminin and collagen IV
    1. Change media to CnT-30, replace evey other day until confluency
 
 **Bioplotting Workflow**
