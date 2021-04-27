@@ -27,8 +27,7 @@ Item (Part Number) | Quantity (Price USD)
 
 # Electrical Wiring 
 Flow chart for wiring and digital logic:
-![Electrical Diagram for Syringe Pump](/Syringe-Pump-Assignment/CHBE3890/Diagram.png)
-![Electrical Wiring for Syringe Pump](/Syringe-Pump-Assignment/CHBE3890/Wire.jpg)
+![Electrical Wiring for Syringe Pump](/3-DPrintingCornealOrganoids/SoftwareImages/Diagram.png)
 
 # Control of specialty components
  Details about UV light switch on/off, duration mechanism for curing
