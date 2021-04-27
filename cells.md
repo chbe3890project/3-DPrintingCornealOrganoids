@@ -10,14 +10,12 @@
 
 ## Rationale for cell populations
 
-The cell types used in this Bioplotter were selected to meet the goals of corneal organoid production for drug screening. Many biomedical models utilize animal cells to mitigate ethical and financial concerns, but such models provide inaccurate physiological conditions due to species’ differences in protein expression and immunological response. The use of human-induced pluripotent stem cells (hiPSCs) allows for a readily expandable, robust and tunable model system capable of better recreating human physiology. hiPSCs offer a more clinically relevant drug screening platform due to their analogous developmental schemes and reproduction of many biological functions. The cost of such a model is expected to decline in the future as differentiation protocols are optimized and new small molecules are mass produced for cell varieties. 
+The cell types used in this Bioplotter were selected to meet the goals of corneal organoid production for drug screening. Many biomedical models utilize animal cells to mitigate ethical and financial concerns, but such models provide inaccurate physiological conditions due to species’ differences in protein expression and immunological response. Current clinical models rely on primary sourced tissue from humans or animals, which often lose cellular functions and can be damaged during extraction. The use of human-induced pluripotent stem cells (hiPSCs) allows for a readily expandable, robust and tunable model system capable of better recreating human physiology. hiPSCs offer a more clinically relevant drug screening platform due to their analogous developmental schemes and reproduction of many biological functions. The cost of such a model is expected to decline in the future as differentiation protocols are optimized and new small molecules are mass produced for cell varieties. 
 
 Using hiPSCs, an initial cell line can be expanded and cultivated to produce cell populations for each of the three cellular layers printed using this Bioplotter. The three cell lines should be maintained independently until fully differentiated, at which time they can be dissociated and prepared for the Bioplotter. The cornea *in vivo* is avascular and capable of receiving nutrients and oxygen from surrounding tissue, thus bioprinted organoids do not require vascularization. Differentiation protocols for the endothelial, stromal, and epithelial layers are outlined below, but more detailed descriptions can be found in their respective sources at the bottom of this page. A list of required media and small molecules is also included. 
 
 ## Differentiation of hiPSCs
 
-
-In brief, differentiated corneal endothelial cells are deposited on 12-well Transwell filters coated with Matrigel. The endothelium should be incubated for 2 days at 37 °C to allow the formation of a confluent monolayer. The first printed layer, comprising dispersed differentiated corneal keratinocytes, is deposited onto the endothelial monolayer. Corneal keratinocytes have been shown to organize into a stromal layer by directed self-assembly. Once the gel is cured, the acellular hydrogel support layer is printed. Finally, the differentiated epithelial cells are deposited on the hydrogel support. 
 
 ![Differentiation Flowchart](/3-DPrintingCornealOrganoids/CHBE3890/Flowchart.jpg)
 
@@ -60,6 +58,9 @@ A general workflow is shown below. All plates should be coated with Matrigel unl
 5. Dissociate cells and transfer to new plate coated with laminin and collagen IV
    1. Change media to CnT-30, replace evey other day until confluency
 
+**Bioplotting Workflow**
+
+In brief, differentiated corneal endothelial cells are deposited on 12-well Transwell filters coated with Matrigel. The endothelium should be incubated for 2 days at 37 °C to allow the formation of a confluent monolayer. The first printed layer, comprising dispersed differentiated corneal keratinocytes, is deposited onto the endothelial monolayer. Corneal keratinocytes have been shown to organize into a stromal layer by directed self-assembly. Once the gel is cured, the acellular hydrogel support layer is printed. Finally, the differentiated epithelial cells are deposited on the hydrogel support. 
 
 ## Validation using viability and activity assays
 
