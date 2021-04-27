@@ -19,7 +19,7 @@ Using hiPSCs, an initial cell line can be expanded and cultivated to produce cel
 
 In brief, differentiated corneal endothelial cells are deposited on 12-well Transwell filters coated with Matrigel. The endothelium should be incubated for 2 days at 37 °C to allow the formation of a confluent monolayer. The first printed layer, comprising dispersed differentiated corneal keratinocytes, is deposited onto the endothelial monolayer. Corneal keratinocytes have been shown to organize into a stromal layer by directed self-assembly. Once the gel is cured, the acellular hydrogel support layer is printed. Finally, the differentiated epithelial cells are deposited on the surface of the organoid. 
 
-![Differentiation Flowchart](url)
+![Differentiation Flowchart](/3-DPrintingCornealOrganoids/CHBE3890/Flowchart.jpg)
  
 **Endothelial Differentiation**
 
