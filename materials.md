@@ -19,7 +19,7 @@ PhotoCol-Irg Kit from Advanced Biomatrix
 
 The keratin-based epithelial layer will be composed of UV-crosslinkable allylated keratin. Keratin will be extracted from hair and allylated via two-step reaction consisting of oxidative elimination of sulfhydryl group of cysteine (−SH group) to Dha followed by the conversion of Dha to s-allyl cysteine was used to functionalize keratin at cysteine residues (Barati et al.). The structure can be seen in the figure below. Briefly, a solution of the allylated keratin in PBS (10 mg/mL) will be combined with the photoinitiator solution in PBS (0.75wt% keratin solution). The keratin extracellular matrix and cells that comprise the layer will be deposited in two steps: first, the acellular keratin hydrogel will be printed and cured directly onto the collagen-based stromal layer. Next, cells suspended in Matrigel will be printed onto the cured keratin layer to recapitulate the air/liquid interface of the epithelium. 
 
-![Allylated Keratin](/3-DPrintingCornealOrganoids/Chemistry/Keratin.jpeg)
+![Allylated Keratin](/3-DPrintingCornealOrganoids/Chemistry/Keratin.jpg)
 Allylation and UV crosslinking of keratin bioink
 
 Both the collagen and keratin-based hydrogels will use Irgacure as a photoinitiator. Irgacure has shown to be an effective photoinitiator in bioprinting applications. It allows the hydrogels to be crosslinked at 365nm UV light, which is within the range of wavelengths of UV suitable for gels encapsulating cells. Cure time for the collagen layers will include 30 minutes of thermal gelation at 37 degrees Celsius, followed by 1 minute of UV crosslinking. The keratin layer will be crosslinked with UV for 5 minutes immediately after deposition.
@@ -28,8 +28,8 @@ Photoinitiator (Irgacure 2959) used for all bioinks
 
 ## Extrusion design/rate
 - Nozzle sizes 
-    - 300 um nozzle (30G blunt needle)
-    - 100 um nozzle
+    - 300um nozzle (30G blunt needle): This nozzle will be used to print the stromal layer of the corneal organoid. This layer is about 500um in thickness in vivo, so the resolution using this nozzle will be around 500-600um
+    - 190um nozzle (34G blunt needle):
 - Shear stress considerations
 
 ## GMP considerations
