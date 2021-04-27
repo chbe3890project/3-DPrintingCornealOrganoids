@@ -33,7 +33,11 @@ Photoinitiator (Irgacure 2959) used for all bioinks
 - Shear stress considerations
 
 ## GMP considerations
-- Sterility: aseptic technique – separate bioreactors, new material/swapping between nozzles
-
-
+### In order to reduce contamination risks and protect cells during printing, lab technicians will follow these procedures:
+- Aseptic technique: using  sterile gowns, gloves, and masks while operating or preparing materials for the bioprinter. 
+- Separate bioreactors will be used for culturing each cell type
+- New material will be added and sterile filted using Millex-GP Syringe Filter 0.22 µm polyethersulfone units fore adding. 
+- Components will be autoclaved (ex. nozzles after use to reduce risk of contamination) before installation
+- The unit will be housed in a standard Biosafety Hood
+- For safety: amber UV-protective goggles should be worn at all times 
 ## References
