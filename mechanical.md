@@ -21,9 +21,29 @@ Item         | Quantity
 
 
 ## Fusion 360 Model(s)
-<iframe src="https://vanderbilt394.autodesk360.com/shares/public/SH919a0QTf3c32634dcfff3f842e03518f28?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-<iframe src="https://vanderbilt422.autodesk360.com/shares/public/SH56a43QTfd62c1cd968c0c78a5255c29f02?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+This model shows how we used a locking mechanism to attach a modified version of the syringe pump we created in class. We created a needle yoke that would attach the printer syringe tip and the bioplotter needle, so they will move in sync. These simple add ons would allow people to use the 3D Printers or CNC mills they already own as a bioplotter. By using open source technology and designs, people can cheaply and creatively make their own bioplotter. 
+
+The most important feature of our bioplotter, is that the syringe tip would be close to the extruder on the equipment to reduce the shear stress placed on the cells as they move a shorter distance from the syringe tip to the needle.
+
+
+<iframe src="https://vanderbilt422.autodesk360.com/shares/public/SH56a43QTfd62c1cd968c1158255f6743d91?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+## Locking Mechanism
+
+The locking mechanism could be adhesively attached to both the syringe pump casing and the printer head. This would allow for you to easily change syringe pump systems, as we would be doing for this project.
+
+<iframe src="https://vanderbilt422.autodesk360.com/shares/public/SH56a43QTfd62c1cd968bcf9f4e74fc85d3e?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+## Extrusion Holder
+
+We designed this extrusion holder to fit the syringe pump within, so the mechanism could then work vertically when attached to the 3D Printer. The holder, would fit tubing into the syringe and out the front hole, that could then flow to the needle yoke on the extruder. 
+
+<iframe src="https://vanderbilt422.autodesk360.com/shares/public/SH56a43QTfd62c1cd9681d317e25834465e0?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+
+
+
 
 
 
