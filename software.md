@@ -22,7 +22,7 @@ Software| Features/Benefits & Download
 ### Diagram of overall information flow from desktop software (G-code) -> Firmware (translated signal) -> micro-controller (step pulses) -> stepper and UV LED drivers (UV LED on/off, motor X Y Z motion)
 ![Image of System Level Flow](/3-DPrintingCornealOrganoids/SoftwareImages/SystemLevelDiagram.png)
 
-### PetriPrinter interface allows customization to the g-Code to accomodate desired printing patterns
+### PetriPrinter interface allows customization to the g-Code to accomodate desired Transwell plate pattern
 ![Image of PetriPrinter Interface](/3-DPrintingCornealOrganoids/SoftwareImages/PetriPrinter.png)
  
 * Below is a g-Code example instructions for the microcontroller which are processed by the Marlin firmware and translated into step pulses for the stepper drivers/UV LED driver to move the stepper motors/switch the UV LED light on/off
