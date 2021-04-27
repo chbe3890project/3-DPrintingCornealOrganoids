@@ -7,8 +7,9 @@
 
 
 ### Bill of Materials (commercial parts- no wire/connectors)
+
 Item (Part Number) | Quantity (Price USD)
------------- | -------------
+----------------- | ------------------
 **Microcontroller Arduino Mega 2560 REV3** ([A000067](https://store.arduino.cc/usa/mega-2560-r3)) | 1 ($40.30)
 **Digital Loggers, Inc. Iot Relay** [P/N: IOT2](https://dlidirect.com/products/iot-power-relay)| 1 ($26.95)
 **Herolab UV hand-held lamp Model IV (254/365 nm)** ([No. H469.1](https://www.carlroth.com/com/en/uv-hand-held-lamps/uv-hand-held-lamp-model-iv/p/h469.1?emcs0=12&emcs1=Produktdetailseite&emcs2=null&emcs3=333676)) | 1 (€566.55)
@@ -23,7 +24,7 @@ Item (Part Number) | Quantity (Price USD)
 * IOT Relay: Enclosed High-power Power Relay for Arduino, Raspberry Pi, PIC or Wifi, Relay Shield - comes with power cable and connector to Arduino
 * Other specifications of the handheld UV lamp: L x W x H= 485 x 85 x 80 mm, Mains connection (220 V, 50 Hz) and weight 1650 g (~ 3 lbs)
  
-* Reference: _“Design and implementation of a low cost bio-printer modification, allowing for switching between plastic and gel extrusion | Elsevier Enhanced Reader.”_
+# References: _“Design and implementation of a low cost bio-printer modification, allowing for switching between plastic and gel extrusion | Elsevier Enhanced Reader.”_
 
 # Electrical Wiring 
 Flow chart for wiring and digital logic:
