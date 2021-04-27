@@ -69,9 +69,31 @@ Cell viability can be assessed using LIVE/DEAD imaging assays. Live cells are in
 
 Organoids can be removed at any stage in the printing process for validation of cell identities through immunohistochemistry. Excised filters can be carefully moved to microscope slides for staining. Samples should be washed twice with Tris Buffered Saline containing 0.1% Triton X-100 (TBS-T) and fixed in 4% PFA overnight at 4 °C. Samples can then be incubated in blocking solution consisting of 5% Donkey Serum in TBS-T for one hour at 37 °C. After three additional washes, primary antibody can be introduced and samples incubated overnight at 4 °C. After three additional washes appropriate secondary antibodies should be added and allowed to incubate for at least 1 hour at room temperature. Recommended primary antibodies are provided in the following table.
 
-Cell Type | Primary Antibody 
+Cell Type | Primary Antibody Recommendations
 ------------ | -------------
-
+Endothelial  | anti-Pax6; anti-Chx10; anti-Na/K ATPase
+Stromal      | anti-Sox2; anti-P75; anti-keratocan
+Epithelial   | anti-ck14; anti-p40
 
 Trans-corneal drug permeability is evaluated using diffusion experiments for three model drugs (pilocarpine hydrochloride [PHCl], hydrocortisone [HC], and befunolol hydrochloride [BHCl]). Diluted concentrations of each drug is administered to the Transwell media chamber and the cells are incubated for 420 minutes at 37 °C. Samples are collected from the lower media chamber every 60 minutes and quantitively analyzed using HPLC. Permeation parameters can be calculated by plotting amount of permeated drug (ug/sq. cm) over time. The slope of the linear portion of the permeation curve can be used to calculate the permeation coefficient Kp.
+
+
+## Bill of Materials
+
+**Media Required**
+
+Item         | Vendor
+------------ | -------------
+hESC SFM     | 1
+
+
+
+**Small Molecules Required**
+
+Item         | Vendor
+------------ | -------------
+hESC SFM     | 1
+
+
+
 
