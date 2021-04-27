@@ -24,7 +24,8 @@ Item (Part Number) | Quantity (Price USD)
 * IOT Relay: Enclosed High-power Power Relay for Arduino, Raspberry Pi, PIC or Wifi, Relay Shield - comes with power cable and connector to Arduino
 * Other specifications of the handheld UV lamp: L x W x H= 485 x 85 x 80 mm, Mains connection (220 V, 50 Hz) and weight 1650 g (~ 3 lbs)
  
-### References: _“Design and implementation of a low cost bio-printer modification, allowing for switching between plastic and gel extrusion | Elsevier Enhanced Reader.”_
+### References: 
+_“Design and implementation of a low cost bio-printer modification, allowing for switching between plastic and gel extrusion | Elsevier Enhanced Reader.”_
 
 # Electrical Wiring 
 Flow chart for wiring and digital logic:
