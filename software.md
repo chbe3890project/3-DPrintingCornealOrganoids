@@ -7,7 +7,8 @@
 
 
 # Explaination of design choice
-### Open-source software tools were chosen for modularity and rapid-prototyping benefits and to avoid premium costs of commercial software packages. Combined these programs will allow specific control/modification of machine movements, fast troubleshooting that can be easily adapted to our hardware platform. More information on these open-source softwares can be found at this source: C. Pakhomova, D. Popov, E. Maltsev, I. Akhatov, and A. Pasko, “Software for Bioprinting,” Int J Bioprint, vol. 6, no. 3, Jun. 2020, doi: 10.18063/ijb.v6i3.279.
+### Open-source software tools were chosen for modularity and rapid-prototyping benefits and to avoid premium costs of commercial software packages. Combined these programs will allow specific control/modification of machine movements, fast troubleshooting that can be easily adapted to our hardware platform. More information on these open-source softwares can be found at this source: 
+_C. Pakhomova, D. Popov, E. Maltsev, I. Akhatov, and A. Pasko, “Software for Bioprinting,” Int J Bioprint, vol. 6, no. 3, Jun. 2020, doi: 10.18063/ijb.v6i3.279._
 
 _This inexpensive system is intended for use by trained lab technicians with some experience with 3D CAD design tools and assumed proficient enough to implement the bioplotter design by interating through softwares installed on a desktop workstation. This option was chosen as opposed to developing a mobile application due to the readily available open-source components that is simpler and more efficeint for customizing and testing than a mobile application. All softwares listed below may be downloaded free of charge. _
 
