@@ -19,10 +19,13 @@ Software| Features/Benefits & Download
 
 ### Diagram of open-source softwares used to process imported 3D solid modeling file and generate, visualize and edit the g-Code for the Arduino microcontroller (modified from above reference). ![Image of g-Code editors](/3-DPrintingCornealOrganoids/SoftwareImages/gCodeAPI.png)
 
-### Diagram of overall information flow from desktop software (G-code) -> Firmware (translated signal) -> micro-controller (step pulses) -> stepper drivers/motor X Y Z + UV LED driver
+### Diagram of overall information flow from desktop software (G-code) -> Firmware (translated signal) -> micro-controller (step pulses) -> stepper and UV LED drivers (UV LED on/off, motor X Y Z motion)
+![Image of PetriPrinter Interface](/3-DPrintingCornealOrganoids/SoftwareImages/SystemLevelDiagram.png)
+
+### PetriPrinter interface allows customization to the g-Code to accomodate desired printing patterns
 ![Image of PetriPrinter Interface](/3-DPrintingCornealOrganoids/SoftwareImages/PetriPrinter.png)
  
-* Below is g-Code example instructions for the microcontroller which are processed by the Marlin firmware and translated into step pulses for the stepper drivers/UV LED driver to move the stepper motors/switch the UV LED light on/off
+* Below is a g-Code example instructions for the microcontroller which are processed by the Marlin firmware and translated into step pulses for the stepper drivers/UV LED driver to move the stepper motors/switch the UV LED light on/off
 ```
 // Example: Arduino microcontroller instructions
 G1 X50 Y20 E15 
