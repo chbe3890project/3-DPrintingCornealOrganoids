@@ -27,9 +27,9 @@ Item (Part Number) | Quantity (Price USD)
 ### References: 
 _“Design and implementation of a low cost bio-printer modification, allowing for switching between plastic and gel extrusion | Elsevier Enhanced Reader.”_
 
-# Electrical Wiring 
+### Electrical Wiring 
 Flow chart for wiring and digital logic:
 ![Electrical Wiring for Syringe Pump](/3-DPrintingCornealOrganoids/SoftwareImages/Diagram.png)
 
-# Control of specialty components
+### Control of specialty components
  Details about UV light switch on/off, duration mechanism for curing
