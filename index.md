@@ -20,9 +20,18 @@ Therefore, we propose that the application of 3D models of the human cornea coul
 ## Innovation
 Our proposed design offers several advantages over existing techniques for corneal construct development, including the following items:
 
-*We are developing elements of a drug screening platform.
-  *A majority of previous research in corneal modeling has attempted clinical translation, intensifying designs with several complex elements of physiology that do not allow for reuse at earlier stages of drug development [4].
-    *Therefore, there remains a general lack of anatomically representative models of the cornea to empower ocular drug screening, despite the associated market size.
+* We are developing elements of a drug screening platform.
+  * A majority of previous research in corneal modeling has attempted clinical translation, intensifying designs with several complex elements of physiology that do not allow for reuse at earlier stages of drug development [4]. Therefore, there remains a general lack of anatomically representative models of the cornea to empower ocular drug screening, despite the associated market size.
+
+* We employ hIPSCs.
+  * As we discuss in “Cells,” most models of the human cornea poised for drug screening use terminally differentiated cells from patients (which are expensive and comprise cellular memory) or animal model cell lines (which are not sufficiently representative of human physiology).
+
+* We model 3 layers of the cornea, to better allow for characterization of drug transport within this tissue system.
+  * Most papers have focused on modeling 1 layer, in great depth, in vitro [5].
+
+* We employ extrusion printing to deposit organoids in each layer of our construct.
+  * A central challenge with organoid technology is standardization, which can complicate attempts to use organoids for drug screening. Bioplotting can help provide standardization via automated control of the printing process. Bioplotting is a very pliable method of printing for establishing proof of concept and therefore fits the purpose of our design project.
+  * There remain few papers that have attempted 3D printing of the cornea, most of which have only tackled one layer of the tissue system and do not incorporate the intentionality and cellularity we describe above.
 
 ## Approach
 To satisfy the drug screening purpose of our design, we sought to develop conceptual setting 3 within the fabrication timeline in the figure below [4]:
