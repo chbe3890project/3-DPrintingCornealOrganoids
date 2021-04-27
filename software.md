@@ -5,7 +5,7 @@
 - [Materials](/3-DPrintingCornealOrganoids/materials)
 - [Cells](/3-DPrintingCornealOrganoids/cells)
 
-### Open-source software tools were chosen for modularity and rapid-prototyping in mind with added benefit of lower costs than commercial software packages. The combination of these programs allow specific control/modification of machine movements, fast troubleshooting that is adaptable to our hardware platform. More information on these open-source softwares can be found at the reference listed. 
+Open-source software tools were chosen for modularity and rapid-prototyping in mind with added benefit of lower costs than commercial software packages. The combination of these programs allow specific control/modification of machine movements, fast troubleshooting that is adaptable to our hardware platform. More information on these open-source softwares can be found at the reference listed. 
 
 * Note: this inexpensive system is intended for use by trained lab technicians with some experience with 3D CAD design tools and assumed proficient to install and use these softwares on a desktop workstation. A desktop workstation was chosen as opposed to developing a custom mobile application due to the readily available open-source options that are simpler and more efficient for customizing/testing this process. All softwares listed below are free to download. 
 
