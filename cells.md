@@ -91,9 +91,16 @@ Trans-corneal drug permeability is evaluated using diffusion experiments for thr
 
 Item         | Vendor
 ------------ | -------------
-hESC SFM     | 1
-
-
+hESC SFM     | StemPro
+N2B27 Priming M.     | Thermo
+Neural Crest Induction M.     | StemCell
+CEC Induction M.     | Sigma
+Knockout Serum Replacement (KSR) M.     | Thermo
+N2 M.     | Thermo
+Advanced DMEM     | Thermo
+Essential 8 M.     | Thermo
+Xeno free-knockout-SR M.     | Thermo
+CnT-30 M.     | CELLnTEC
 
 **Small Molecules Required**
 
