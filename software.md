@@ -18,10 +18,10 @@ Software| Features/Benefits & Download
 **PetriPrinter** | A g-code generator program handles 3D model files by aligning into suitable positions for print in specified dimensions/culture dishes (see figure below). The interface provides the access to assign objects to positions, with collion-safe, optimized entry features and coordinated movement between dishes, wells and exits to distribute printer motion according to the defined pattern. Settings can be easily adjusted to accomodate our hardware by providing the starting height, printing temperature, row/column distance, extrusion speed, absolute position, etc: (http://petriprinter.elte.hu/main/downloads)
 **Marlin** | An open-source firmware 3D printer driver based on the Arduino platform and primarily designed for RepRap based FDM prints using the Arduino platform. There are multiple step-by-step tutorials provided by Marlin and technology experts on downloading, editing the configuration and compiling the Marlin project into binary code for upload to the external Arduino board to manage the separate power sources using the stepper drivers and driver for the UV LED light. Editing can be performed using the Ardunio IDE or other text editing application: (https://marlinfw.org/meta/download/)
 
-### Diagram of open-source softwares used to process imported 3D solid modeling file and generate, visualize and edit the g-Code for the Arduino microcontroller. ![Image of g-Code editors](https://github.com/chbe3890project/3-DPrintingCornealOrganoids/SoftwareImages/gCodeAPI.png)
+### Diagram of open-source softwares used to process imported 3D solid modeling file and generate, visualize and edit the g-Code for the Arduino microcontroller. ![Image of g-Code editors](/3-DPrintingCornealOrganoids/SoftwareImages/gCodeAPI.png)
 
 ### Diagram of information flow from desktop software (G-code) -> Firmware (translated signal) -> micro-controller (step pulses) -> stepper drivers/motor X Y Z + UV LED driver
-![Image of PetriPrinter Interface](https://github.com/chbe3890project/3-DPrintingCornealOrganoids/SoftwareImages/PetriPrinter.png)
+![Image of PetriPrinter Interface](/3-DPrintingCornealOrganoids/SoftwareImages/PetriPrinter.png)
  
 * Below is g-Code example instructions for the microcontroller which are processed by the Marlin firmware and translated into step pulses for the stepper drivers/UV LED driver to move the stepper motors/switch the UV LED light on/off
 ```
