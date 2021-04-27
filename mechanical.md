@@ -23,5 +23,7 @@ Item         | Quantity
 ## Fusion 360 Model(s)
 <iframe src="https://vanderbilt394.autodesk360.com/shares/public/SH919a0QTf3c32634dcfff3f842e03518f28?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
+<iframe src="https://vanderbilt422.autodesk360.com/shares/public/SH56a43QTfd62c1cd968c0c78a5255c29f02?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
 
 
