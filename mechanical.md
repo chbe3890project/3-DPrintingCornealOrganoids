@@ -29,6 +29,8 @@ The most important feature of our bioplotter, is that the syringe tip would be c
 
 <iframe src="https://vanderbilt422.autodesk360.com/shares/public/SH56a43QTfd62c1cd968c1158255f6743d91?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
+The open source 3D Printer Model was obtained on GrabCad [here](https://grabcad.com/library/3d-printer-396)
+
 ## Locking Mechanism
 
 The locking mechanism could be adhesively attached to both the syringe pump casing and the printer head. This would allow for you to easily change syringe pump systems, as we would be doing for this project.
