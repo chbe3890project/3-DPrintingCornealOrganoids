@@ -23,7 +23,7 @@ Software| Features/Benefits & Download
 ### Diagram of information flow from desktop software (G-code) -> Firmware (translated signal) -> micro-controller (step pulses) -> stepper drivers/motor X Y Z + UV LED driver
 ![Image of PetriPrinter Interface](https://github.com/chbe3890project/3-DPrintingCornealOrganoids/SoftwareImages/PetriPrinter.png)
  
-* Below is g-Code example instructions for the microcontroller which are processed by the Marlin firmware and translated into step pulses for the stepper drivers and UV LED driver to move the stepper motors/switch the UV LED light on/off
+* Below is g-Code example instructions for the microcontroller which are processed by the Marlin firmware and translated into step pulses for the stepper drivers/UV LED driver to move the stepper motors/switch the UV LED light on/off
 ```
 // Example: Arduino microcontroller instructions
 G1 X50 Y20 E15 
