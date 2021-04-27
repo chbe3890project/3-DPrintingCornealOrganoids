@@ -23,7 +23,7 @@ In brief, differentiated corneal endothelial cells are deposited on 12-well Tran
 
 A general workflow is shown below. All plates should be coated with Matrigel unless otherwise stated. Be sure to check sources for small molecule concentration and specific cell culture practices. 
 
-**Endothelial Differentiation**
+**Endothelial Differentiation [1]**
 
 1. Culture hiPSCs in hESC Serum-free media until confluency
 1. Change media to N2B27 priming media + bFGF
@@ -36,7 +36,7 @@ A general workflow is shown below. All plates should be coated with Matrigel unl
 6. Change media to CEC induction media + SB431542, H-1125
    1. Replace media daily until confluency
 
-**Stromal Keratinocyte Differentiation**
+**Stromal Keratinocyte Differentiation [2,3]**
 
 1. Culture hiPSCs in hESC Serum-free media until 60-80% confluency
 1. Change media to KSR media + SB431542, LDN193189
@@ -49,7 +49,7 @@ A general workflow is shown below. All plates should be coated with Matrigel unl
 8. Replace media with Advanced DMEM + bFGF, ascorbic acid-2-phosphate
    1. Replace media every other day until confleuncy
 
-**Corneal Epithelial Differentiation**
+**Corneal Epithelial Differentiation [4,5]**
 
 1. Culture hiPSCs on laminin coated plates in Essential 8 media until confluency
 1. Dissociate cells and transder to new plate with a halved concentration of laminin
@@ -65,7 +65,7 @@ A general workflow is shown below. All plates should be coated with Matrigel unl
 
 At least three wells in each batch of corneal organoids should be designated for cell viability and validation assays. The three samples should be collected after the endothelium reaches confluency, after the stromal layer is printed, and after the epithelial layer is printed, respectively.
 
-Cell viability can be assessed using LIVE/DEAD imaging assays. Live cells are indicated by green-fluorescent calcein-AM and dead cells are indicated by red-fluorescent ethidium homodimer-1. Prep the LIVE/DEAD solution by mixing 1.25 uL of 4 mM calcein-AM and 2 mM of ethidium homodimer-1 in 10 mL of 1X PBS. Incubate completed organoid in 0.5 mL of the staining solution for 30 minutes at 37 °C. Images can be analyzed using the ImageJ Fiji macro “live dead quantification” by [Allevi3D](https://www.allevi3d.com/livedead-assay-quantification-fiji/).
+Cell viability can be assessed using LIVE/DEAD imaging assays. Live cells are indicated by green-fluorescent calcein-AM and dead cells are indicated by red-fluorescent ethidium homodimer-1. Prep the LIVE/DEAD solution by mixing 1.25 uL of 4 mM calcein-AM and 2 mM of ethidium homodimer-1 in 10 mL of 1X PBS. Incubate completed organoid in 0.5 mL of the staining solution for 30 minutes at 37 °C. Images can be analyzed using the ImageJ Fiji macro “live dead quantification” by [Allevi3D](https://www.allevi3d.com/livedead-assay-quantification-fiji/). [6]
 
 Organoids can be removed at any stage in the printing process for validation of cell identities through immunohistochemistry. Excised filters can be carefully moved to microscope slides for staining. Samples should be washed twice with Tris Buffered Saline containing 0.1% Triton X-100 (TBS-T) and fixed in 4% PFA overnight at 4 °C. Samples can then be incubated in blocking solution consisting of 5% Donkey Serum in TBS-T for one hour at 37 °C. After three additional washes, primary antibody can be introduced and samples incubated overnight at 4 °C. After three additional washes appropriate secondary antibodies should be added and allowed to incubate for at least 1 hour at room temperature. Recommended primary antibodies are provided in the following table.
 
@@ -95,5 +95,18 @@ Item         | Vendor
 hESC SFM     | 1
 
 
+## References
+
+[1] Zhao, Jiagang J, and Natalie A Afshari. “Generation of Human Corneal Endothelial Cells via In Vitro Ocular Lineage Restriction of Pluripotent Stem Cells.” Investigative ophthalmology & visual science 57.15 (2016): 6878–6884. doi:10.1167/iovs.16-20024.
+
+[2] Naylor, Richard W et al. “Derivation of Corneal Keratocyte-Like Cells from Human Induced Pluripotent Stem Cells.” PloS one 11.10 (2016). doi:10.1371/journal.pone.0165464.
+
+[3] Chambers, Stuart M et al. “Dual-SMAD Inhibition/WNT Activation-Based Methods to Induce Neural Crest and Derivatives from Human Pluripotent Stem Cells.” Human Embryonic Stem Cell Protocols 1307 (2013): 329–343. doi:10.1007/7651_2013_59. 
+
+[4] Puistola, Paula. “Novel bioink design for 3D bioprinting of human pluripotent stem cell derived corneal epithelial cells.” Tampere University Degree Programme in Bioengineering (Thesis). (2020). https://core.ac.uk/download/pdf/354675205.pdf. 
+
+[5] Hongisto, Heidi et al. “Xeno- and Feeder-Free Differentiation of Human Pluripotent Stem Cells to Two Distinct Ocular Epithelial Cell Types Using Simple Modifications of One Method.” Stem cell research & therapy 8.1 (2017): 291–291. doi:10.1186/s13287-017-0738-4.
+
+[6] Reichl, S, J Bednarz, and C C Müller-Goymann. “Human Corneal Equivalent as Cell Culture Model for in Vitro Drug Permeation Studies.” British journal of ophthalmology 88.4 (2004): 560–565. doi:10.1136/bjo.2003.028225.
 
 
