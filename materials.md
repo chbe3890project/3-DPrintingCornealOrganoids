@@ -28,14 +28,14 @@ Both the collagen and keratin-based hydrogels will use Irgacure as a photoinitia
 Photoinitiator (Irgacure 2959) used for all bioinks 
 
 ## Extrusion design
-Nozzle Sizes 
+### Nozzle Sizes 
     - 30G blunt needle (160um inner diameter): This nozzle will be used to print the collagen-based stromal layer with encapsulated cells of the corneal organoid. This layer is about 500um in thickness in vivo, so the resolution using this nozzle will be around 500-600um. 
     - 34G blunt needle (80um inner diameter) : This nozzle will be used to print the keratin-based epithelial layer as well as the top-most matrigel layer with encapsulated cells. Although a resolution of 50um will not be achievable with this size of a nozzle, a resolution of 100um will be suitable for this application.
 
-Extrusion Speed
+### Extrusion Speed
 Initial extrusion speed employed will be 6mm/s (Isaacson et al.). Cell viability and organoid integrity will be analyzed, and extrusion speed and rate will be optimized based on these results. Ideally, a low speed will be used because of the small nozzle diameters in order to achieve best cell viability and organoid integrity following printing. 
 
-Shear Stress Considerations
+### Shear Stress Considerations
 Since nozzle sizes for this application are small, shear stress induced on encapsulated cells could affect viability. To reduce shear stress as much as possible, a small extrusion speed will be used to deposit bioinks into the organoid. Cell viability will be analyzed and extrusion speed optimized to achieve highest possible viability.
 
 
