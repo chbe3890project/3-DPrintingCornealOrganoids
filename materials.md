@@ -27,7 +27,9 @@ Both the collagen and keratin-based hydrogels will use Irgacure as a photoinitia
 Photoinitiator (Irgacure 2959) used for all bioinks 
 
 ## Extrusion design/rate
-- Extruder details (dimensions, components for each layer)
+- Nozzle sizes 
+    - 300 um nozzle (30G blunt needle)
+    - 100 um nozzle
 - Shear stress considerations
 
 ## GMP considerations
