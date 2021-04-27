@@ -15,11 +15,18 @@ The ophthalmic drug development market is expected to reach $30.8B in revenue fo
 
 Therefore, we propose that the application of 3D models of the human cornea could more directly replicate human anatomy for characterization of therapeutic hits than the 2D, single-layer models presently employed in the ophthalmic drug development space [2]. The cornea is the first tissue layer that any ophthalmic drug contacts and is therefore critical to model in drug development, to characterize the absorption, distribution, and metabolism of potential therapeutics. Herein, more accurate models of drug interaction with the human cornea could allow for discovery of hits with higher potential for translation through clinical trials. Such 3D models would replicate the structurally and functionally diverse strata of the cornea displayed in the following image [3] far better than existing screening systems. We discuss the cellular and physiological profiles of these layers on the “Cells” and “Materials” sections of our website, respectively.
 
-![Drawing of corneal anatomy](/CHBE-5890-Syringe-Pump-Build/Images/Syringe-Specs.png)
+![Drawing of corneal anatomy](/3-DPrintingCornealOrganoids/CHBE3890/cornea-anatomy.png)
 
 ## Innovation
 Our proposed design offers several advantages over existing techniques for corneal construct development, including the following items:
 
 ## Approach
+To satisfy the drug screening purpose of our design, we sought to develop conceptual setting 3 within the fabrication timeline in the figure below [4]:
+
+![Drawing explaining different levels of complexity among fabricated corneas](/3-DPrintingCornealOrganoids/CHBE3890/fabrication-levels.png)
+
+Details about our model construction are available on the tabs linked above. Briefly, our process considers hIPSCs differentiated to the epithelial, stromal, and endothelial subtypes of corneal cells within separate bioreactors. We validate cell identity following differentiation using immunohistochemistry methods. Then, we apply a syringe pump adapted from an open-source design to print each layer of cells in an order representing the natural anatomy of these layers, with relative thickness of each layer that is also physiologically representative. We print atop a glass support and maintain the epithelium as a thin air-liquid interface, mimicking the function of this layer in the human eye. Between printing each new layer, we allow for gelation of the previously-printed, natural bioink solution using UV light. Then, once we have a complete corneal construct, we validate its absorption using standard permeability assays, given our interest in developing a physiologically representative transport model for drug screening.
+
+We hope our proof-of-concept model is both interesting and helpful to pharmaceutical scientists with an interest in the development of more physiologically representative models of the human eye. 
 
 ## References
