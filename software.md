@@ -13,9 +13,7 @@ _C. Pakhomova, D. Popov, E. Maltsev, I. Akhatov, and A. Pasko, “Software for B
 Software| Features/Benefits & Download
 ------------ | -------------
 **Autodesk Fushion 360** | CAD-based software for genearl solid modeling of 3D design/ creating STL file format **[Autodesk]**(https://www.autodesk.com/education/edu-software/overview)
-
 **CuraEngine** | Third party slicer software and pre-processing featuring ready-made settings profiles and an intuitive user interface **[CuraEngine]** (https://www.github.com/ultimaker/curaengine)
-
 **gCode Editor 1.0 (gCodeAPI.Net 1.0)** | Encapsulates g-Code commands into high-level functions (C#, python) with a graphical user interface for visualizing sliced formatted g-Code. It allows easy modifications/optimizing settings to adjust to printing living cells/ECM needs with the ability to edit raw gCode through the gCode Editor. Fast and simple method to identify errors and replace machine movement, insert or relocate points and edit raw g-Code by clicking. This g-Code editor will be necessary for the custom commands to control the relative gel flow rate and UV LED for PetriPrinter. **[gCodeAPI]** (http://petriprinter.elte.hu/main/downloads) 
 
 **PetriPrinter** | A g-code generator program handles 3D model files by aligning into suitable positions for print in specified dimensions/culture dishes (see figure below). The interface provides the access to assign objects to positions, with collion-safe, optimized entry features and coordinated movement between dishes, wells and exits to distribute printer motion according to the defined pattern. Settings can be easily adjusted to accomodate our hardware by providing the starting height, printing temperature, row/column distance, extrusion speed, absolute position, etc. **[PetriPrinter]** (http://petriprinter.elte.hu/main/downloads)
@@ -27,10 +25,10 @@ Software| Features/Benefits & Download
 ### Diagram of information flow from desktop software (G-code) -> Firmware (translated signal) -> micro-controller (step pulses) -> stepper drivers/motor X Y Z + UV LED driver
 ![Image of PetriPrinter Interface](https://github.com/chbe3890project/3-DPrintingCornealOrganoids/SoftwareImages/PetriPrinter.png)
  
-Below is g-Code example instructions for the microcontroller which are processed by the Marlin firmware and translated into step pulses for the stepper drivers and UV LED driver to move the stepper motors/switch the UV LED light on/off
+* Below is g-Code example instructions for the microcontroller which are processed by the Marlin firmware and translated into step pulses for the stepper drivers and UV LED driver to move the stepper motors/switch the UV LED light on/off
 ```
 // Example: Arduino microcontroller instructions
-G1 X50 Y20 E15
+G1 X50 Y20 E15 
 // G1 = linear movement
 // X=_ Y =_ are coordinates
 // E=_ extrusion drive instructions to deposit/retract bioink
