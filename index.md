@@ -5,21 +5,14 @@
 - [Materials](/3-DPrintingCornealOrganoids/materials)
 - [Cells](/3-DPrintingCornealOrganoids/cells)
 
-# Project Overview: 
-- Overview of bioprinter design/workflow details
+# Project Overview
 
-## Explanation of design/intent
+## Summary
 
-### Specifications of the printer/extruder:
+## Significance
 
-### Components
-- Explanation of basic desktop 3D printer/extruder assembly
-- Separate bioreactors
+## Innovation
 
-### Overall speed of printing process/sol-gel transition
-- Time/operation considerations
+## Approach
 
-
-See: [mechanical page](/3-DPrintingCornealOrganoids/mechanical), [electrical page](/3-DPrintingCornealOrganoids/electrical), [software page](/3-DPrintingCornealOrganoids/mechanical).
-
-
+## References
