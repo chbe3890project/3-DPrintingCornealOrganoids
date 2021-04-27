@@ -17,7 +17,7 @@ Using hiPSCs, an initial cell line can be expanded and cultivated to produce cel
 ## Differentiation of hiPSCs
 
 
-![Differentiation Flowchart](/3-DPrintingCornealOrganoids/CHBE3890/Flowchart.jpg)
+![Differentiation Flowchart](/3-DPrintingCornealOrganoids/CHBE3890/Flowchart2.jpg)
 
 A general workflow is shown below. All plates should be coated with Matrigel unless otherwise stated. Be sure to check sources for small molecule concentration and specific cell culture practices. 
 
