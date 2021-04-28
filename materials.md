@@ -43,15 +43,15 @@ Since nozzle sizes for this application are small, shear stress induced on encap
 ## Bill of Materials
 Item | Vendor | Intended Use
 ------------ | ------------- | -------------
-PhotoCol(R)-Irg Kit  | Advanced Biomatrix | Collagen Bioink
+[PhotoCol(R)-Irg Kit](https://advancedbiomatrix.com/photocol-irg.html)  | Advanced Biomatrix | Collagen Bioink
 Keratin              | N/A | Keratin Bioink
-Sodium Dodecyl Sulfate | VWR International | Keratin Extraction
-Tris(2-carboxyethyl) phosphine  | VWR International | Keratin Extraction
-Trimethylbenzenesulfonyl)hydroxylamine | Angene International Limited | Allylation of Keratin
-Allyl mercaptan | VWR International | Allylation of Keratin
-Irgacure 2959        | Ciba Specialty Chemicals | Keratin Bioink Photoinitiator
-30G blunt needle     | CELLINK | Print Nozzle
-34G blunt needle     | CELLINK | Print Nozzle
+[Sodium Dodecyl Sulfate](https://www.sigmaaldrich.com/catalog/product/sial/436143?lang=en&region=US) | Sigma | Keratin Extraction
+[Tris(2-carboxyethyl) phosphine](https://www.thermofisher.com/order/catalog/product/T2556#/T2556)  | ThermoFisher | Keratin Extraction
+[Trimethylbenzenesulfonyl)hydroxylamine](https://www.sigmaaldrich.com/catalog/product/aldrich/671010?lang=en&region=US) | Sigma | Allylation of Keratin
+[Allyl mercaptan](https://www.sigmaaldrich.com/catalog/product/aldrich/w203501?lang=en&region=US) | Sigma | Allylation of Keratin
+[Irgacure 2959](https://advancedbiomatrix.com/irgacure.html)  | Advanced Biomatrix | Keratin Bioink Photoinitiator
+[30G blunt needle](https://www.cellink.com/product/sterile-standard-blunt-needles-30g-50-pieces/)  | CELLINK | Print Nozzle
+[34G blunt needle](https://www.cellink.com/product/sterile-standard-blunt-needles-34g-50-pcs/)  | CELLINK | Print Nozzle
 
 ## Additional Considerations
 The proposed order of printing the 3 matrix layers (onto prepared endothelial monolayer) into a Transwell is shown below in the schematic from reference [5]. The separate deposition/printing steps simplify the procedure and UV crosslinking once after all layers have been deposited avoids addition of unnecessary stress and damage to cells which enhances their viability.  
