@@ -53,11 +53,11 @@ void loop(){
 }
 ```
 ### References: 
+
 [1] _“Design and implementation of a low cost bio-printer modification, allowing for switching between plastic and gel extrusion | Elsevier Enhanced Reader.”_
 
-[2] _“Arduino MIDI Stepper Synth,” Arduino Project Hub. https://create.arduino.cc/projecthub/JonJonKayne/arduino-midi-stepper-synth-d291ae 
-![image](https://user-images.githubusercontent.com/82895295/116425312-d105fc80-a807-11eb-9f4e-291729e29560.png)_
+[2] _“Arduino MIDI Stepper Synth,” Arduino Project Hub. https://create.arduino.cc/projecthub/JonJonKayne/arduino-midi-stepper-synth-d291ae._
 
-[3] _“Relay Module interfacing with Arduino - Arduino Relay Module,” Electronics Hobbyists, Feb. 08, 2017. https://electronicshobbyists.com/relay-module-interfacing-with-arduino-arduino-relay-module/ (accessed Apr. 27, 2021)._
+[3] _“Relay Module interfacing with Arduino - Arduino Relay Module,” Electronics Hobbyists, Feb. 08, 2017. https://electronicshobbyists.com/relay-module-interfacing-with-arduino-arduino-relay-module/._
 
-[4] _S. C. | Arduino | 65, “Turn Any Appliance into a Smart Device with an Arduino Controlled Power Outlet,” Circuit Basics, Nov. 19, 2015. https://www.circuitbasics.com/build-an-arduino-controlled-power-outlet/ (accessed Apr. 28, 2021)._
+[4] _S. C. | Arduino | 65, “Turn Any Appliance into a Smart Device with an Arduino Controlled Power Outlet,” Circuit Basics, Nov. 19, 2015. https://www.circuitbasics.com/build-an-arduino-controlled-power-outlet/._
