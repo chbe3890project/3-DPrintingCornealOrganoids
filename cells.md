@@ -92,16 +92,16 @@ Trans-corneal drug permeability is evaluated using diffusion experiments for thr
 
 Item         | Vendor
 ------------ | -------------
-hESC SFM     | StemPro
-N2B27 Priming M.     | Thermo
-Neural Crest Induction M.     | StemCell
-CEC Induction M.     | Sigma
-Knockout Serum Replacement (KSR) M.     | Thermo
-N2 M.     | Thermo
-Advanced DMEM     | Thermo
-Essential 8 M.     | Thermo
-Xeno free-knockout-SR M.     | Thermo
-CnT-30 M.     | CELLnTEC
+hESC SFM     | [ThermoFisher](https://www.thermofisher.com/order/catalog/product/A1000701#/A1000701)
+N2B27 Priming M.     | [ThermoFisher](https://www.thermofisher.com/order/catalog/product/21103049#/21103049)
+Neural Crest Induction M.     | [StemCell](https://www.stemcell.com/stemdiff-neural-crest-differentiation-kit.html)
+CEC Induction M.     | [Sigma](https://www.sigmaaldrich.com/life-science/cell-culture/cell-culture-products.html?TablePage=119625428)
+Knockout Serum Replacement (KSR) M.     | [ThermoFisher](https://www.thermofisher.com/order/catalog/product/10828028#/10828028)
+N2 M.     | [ThermoFisher](https://www.thermofisher.com/order/catalog/product/17502048#/17502048)
+Advanced DMEM     | [ThermoFisher](https://www.thermofisher.com/order/catalog/product/12491023#/12491023)
+Essential 8 M.     | [ThermoFisher](https://www.thermofisher.com/order/catalog/product/A1517001?ef_id=CjwKCAjwj6SEBhAOEiwAvFRuKFt6drvFgYN2ZeD4yOzKJdT2veNGlwo5X05cSC6HSzysEpnmOfn2XxoCpSkQAvD_BwE:G:s&s_kwcid=AL!3652!3!305473461783!b!!g!!&cid=bid_clb_cce_r01_co_cp0000_pjt0000_bid00000_0se_gaw_dy_pur_con&s_kwcid=AL!3652!3!305473461783!b!!g!!&gclid=CjwKCAjwj6SEBhAOEiwAvFRuKFt6drvFgYN2ZeD4yOzKJdT2veNGlwo5X05cSC6HSzysEpnmOfn2XxoCpSkQAvD_BwE#/A1517001?ef_id=CjwKCAjwj6SEBhAOEiwAvFRuKFt6drvFgYN2ZeD4yOzKJdT2veNGlwo5X05cSC6HSzysEpnmOfn2XxoCpSkQAvD_BwE:G:s&s_kwcid=AL!3652!3!305473461783!b!!g!!&cid=bid_clb_cce_r01_co_cp0000_pjt0000_bid00000_0se_gaw_dy_pur_con&gclid=CjwKCAjwj6SEBhAOEiwAvFRuKFt6drvFgYN2ZeD4yOzKJdT2veNGlwo5X05cSC6HSzysEpnmOfn2XxoCpSkQAvD_BwE)
+Xeno free-knockout-SR M.     | [ThermoFisher](https://www.thermofisher.com/order/catalog/product/12618012#/12618012)
+CnT-30 M.     | [CELLnTEC](https://cellntec.com/products/CnT-30/)
 
 **Small Molecules Required**
 
