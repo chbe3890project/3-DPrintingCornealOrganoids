@@ -42,6 +42,10 @@ Since nozzle sizes for this application are small, shear stress induced on encap
 
 ## Bill of Materials
 Item | Vendor
+------------ | -------------
+PhotoCol(R)-Irg Kit  | kjlka
+Keratin              | N/A
+Irgacure 2959        | ljals
 
 ## Additional Considerations
 The proposed order of printing the 3 matrix layers (onto prepared endothelial monolayer) into a Transwell is shown below in the schematic from reference [5]. The separate deposition/printing steps simplify the procedure and UV crosslinking once after all layers have been deposited avoids addition of unnecessary stress and damage to cells which enhances their viability.  
