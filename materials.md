@@ -40,6 +40,8 @@ Initial extrusion speed employed will be 6mm/s (Isaacson et al.). Cell viability
 ### Shear Stress Considerations
 Since nozzle sizes for this application are small, shear stress induced on encapsulated cells could affect viability. To reduce shear stress as much as possible, a small extrusion speed will be used to deposit bioinks into the organoid. Cell viability will be analyzed and extrusion speed optimized to achieve highest possible viability.
 
+## Bill of Materials
+
 
 ## Additional Considerations
 The proposed order of printing the 3 matrix layers (onto prepared endothelial monolayer) into a Transwell is shown below in the schematic from reference [5]. The separate deposition/printing steps simplify the procedure and UV crosslinking once after all layers have been deposited avoids addition of unnecessary stress and damage to cells which enhances their viability.  
@@ -51,6 +53,7 @@ These bioprinted cornea models are intended to be produced in relatively small q
 2. We have extensive validation procedures in place to characterize/confirm cell identify and viability. Samples from 3 Transwells are collected from each 12-well batch throughout the printing process and designated specifically to these assays to confirm each step sucessful before continuing. Also, careful steps are taken to reduce contamination by practicing aseptic technique and maintaining cells and components separately prior to bioprinting. 
 3. The hydrogel and crosslinking components i.e. Matrigel, methacrylated collagen, crosslinking photoinitiators, allylated keratin, are relatively well-established and documented with known storage/stability limits. These recommendations will be closely followed and monitored to avoid expiration or degradation that could interfere with the integrity of our products. 
 4. Documentation is an important procedure in complying with GMP, which is why all processes relating to the bioprinting workflow: from differentiation protocols outlined in the [Cells](/3-DPrintingCornealOrganoids/cells) section, to printing and equipment maintenance- are to be maintained and updated as needed for reference and reporting. Specific timing of media components are an important factor for cell biology considerations, therefore detailed logs of cell type, differentiation day, addition of small molecules/growth factors are updated real-time by lab technicians and history of each batch is stored in a Batch Record.  
+
 #### In order to reduce contamination risks and protect cells during printing, lab technicians will follow these procedures:
 - Aseptic technique: using  sterile gowns, gloves, and masks while operating or preparing materials for the bioprinter 
 - Separate bioreactors will be used for culturing each cell type
