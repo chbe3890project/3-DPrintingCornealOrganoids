@@ -14,8 +14,10 @@ Item (Part Number) | Quantity (Price USD)
 **Digital Loggers, Inc. Iot Relay** [P/N: IOT2](https://dlidirect.com/products/iot-power-relay)| 1 ($26.95)
 **Herolab UV hand-held lamp Model IV (254/365 nm)** ([No. H469.1](https://www.carlroth.com/com/en/uv-hand-held-lamps/uv-hand-held-lamp-model-iv/p/h469.1?emcs0=12&emcs1=Produktdetailseite&emcs2=null&emcs3=333676)) | 1 (€566.55)
 **Herolab Accessories Table tripod For UV hand-held lamp** ([No.  H470.1](https://www.carlroth.com/com/en/uv-hand-held-lamps/accessories-table-tripod-for-uv-hand-held-lamp/p/h470.1))| 1 (€163.40)
+**A4988 Stepper Motor Driver** ([A4988-1.4A] 14450(https://www.pololu.com/product/1182)]) | 3 ($5.95 EA)
+**Full-size Breadboard** ([https://www.adafruit.com/product/239]) | 1 ($5.95)
 
-The IOT Relay (pictured below) allows the electrical switch to the UV lamp power supply to be controlled by the microcontroller by activating an electromagnet through the Arduino. The UV lamp power cord is plugged into the Normally Off (closed) output of the Relay Module. An external power outlet provides the AC power source to the Relay Module. 
+Note: the IOT Relay (pictured below) allows the electrical switch to the UV lamp power supply to be controlled by the microcontroller by activating an electromagnet through the Arduino. The UV lamp power cord is plugged into the Normally Off (closed) output of the Relay Module. An external power outlet provides the AC power source to the Relay Module. More information about this Arduino controlled power outlet can be found at references [2] and [3]. 
 
 ### IOT Power Relay Module 
 ![IOT Power Relay](/3-DPrintingCornealOrganoids/SoftwareImages/IOTPowerRelay.jpg)
@@ -29,14 +31,9 @@ The IOT Relay (pictured below) allows the electrical switch to the UV lamp power
 Other details:
 * IOT Power Relay device: an enclosed High-power Power Relay compatible with Arduino, Raspberry Pi, PIC or Wifi, Relay Shield - equipped with power cable and connector for Arduino 
 * Other specifications of the handheld UV lamp: L x W x H dimensions = 485 x 85 x 80 mm, Mains connection (220 V, 50 Hz) and weight 1650 g (~ 3 lbs)
- 
-### References: 
-_[1] “Design and implementation of a low cost bio-printer modification, allowing for switching between plastic and gel extrusion | Elsevier Enhanced Reader.”_
-
-_[2] “Relay Module interfacing with Arduino - Arduino Relay Module,” Electronics Hobbyists, Feb. 08, 2017. https://electronicshobbyists.com/relay-module-interfacing-with-arduino-arduino-relay-module/ (accessed Apr. 27, 2021)._
 
 ### Electrical Wiring 
-Flow chart for wiring and digital logic based on the reference below:
+Flow chart for wiring and digital logic based on references [3-4] below:
 ![Electrical Wiring for Syringe Pump](/3-DPrintingCornealOrganoids/SoftwareImages/Wiring.png)
 
 ### Control of specialty components
@@ -56,5 +53,11 @@ void loop(){
 }
 ```
 ### References: 
-[1] _“Arduino MIDI Stepper Synth,” Arduino Project Hub. https://create.arduino.cc/projecthub/JonJonKayne/arduino-midi-stepper-synth-d291ae 
+[1] _“Design and implementation of a low cost bio-printer modification, allowing for switching between plastic and gel extrusion | Elsevier Enhanced Reader.”_
+
+[2] _“Arduino MIDI Stepper Synth,” Arduino Project Hub. https://create.arduino.cc/projecthub/JonJonKayne/arduino-midi-stepper-synth-d291ae 
 ![image](https://user-images.githubusercontent.com/82895295/116425312-d105fc80-a807-11eb-9f4e-291729e29560.png)_
+
+[3] _“Relay Module interfacing with Arduino - Arduino Relay Module,” Electronics Hobbyists, Feb. 08, 2017. https://electronicshobbyists.com/relay-module-interfacing-with-arduino-arduino-relay-module/ (accessed Apr. 27, 2021)._
+
+[4] _S. C. | Arduino | 65, “Turn Any Appliance into a Smart Device with an Arduino Controlled Power Outlet,” Circuit Basics, Nov. 19, 2015. https://www.circuitbasics.com/build-an-arduino-controlled-power-outlet/ (accessed Apr. 28, 2021)._
