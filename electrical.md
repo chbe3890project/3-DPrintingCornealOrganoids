@@ -54,10 +54,10 @@ void loop(){
 ```
 ### References: 
 
-[1] “Design and implementation of a low cost bio-printer modification, allowing for switching between plastic and gel extrusion | Elsevier Enhanced Reader.”
+[1] “Design and implementation of a low cost bio-printer modification, allowing for switching between plastic and gel extrusion. Elsevier Enhanced Reader.”
 
 [2] “Arduino MIDI Stepper Synth,” Arduino Project Hub. https://create.arduino.cc/projecthub/JonJonKayne/arduino-midi-stepper-synth-d291ae.
 
 [3] “Relay Module interfacing with Arduino - Arduino Relay Module,” Electronics Hobbyists, Feb. 08, 2017. https://electronicshobbyists.com/relay-module-interfacing-with-arduino-arduino-relay-module/.
 
-[4] S. C.| Arduino | 65, “Turn Any Appliance into a Smart Device with an Arduino Controlled Power Outlet,” Circuit Basics, Nov. 19, 2015. https://www.circuitbasics.com/build-an-arduino-controlled-power-outlet/.
+[4] S. C., Arduino. 65, “Turn Any Appliance into a Smart Device with an Arduino Controlled Power Outlet,” Circuit Basics, Nov. 19, 2015. https://www.circuitbasics.com/build-an-arduino-controlled-power-outlet/.
