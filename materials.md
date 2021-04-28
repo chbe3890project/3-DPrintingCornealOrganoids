@@ -43,7 +43,7 @@ Since nozzle sizes for this application are small, shear stress induced on encap
 ## Bill of Materials
 Item | Vendor | Intended Use
 ------------ | ------------- | -------------
-PhotoCol(R)-Irg Kit  | Advanced Biomatrix | Collagen Bionk
+PhotoCol(R)-Irg Kit  | Advanced Biomatrix | Collagen Bioink
 Keratin              | N/A | Keratin Bioink
 Sodium Dodecyl Sulfate | VWR International | Keratin Extraction
 Tris(2-carboxyethyl) phosphine  | VWR International | Keratin Extraction
