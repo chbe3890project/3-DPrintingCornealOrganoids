@@ -11,11 +11,11 @@
 Item (Part Number) | Quantity (Price USD)
 ----------------- | ------------------
 **Microcontroller board: Arduino UNO Rev3** ([A000066](https://store.arduino.cc/usa/arduino-uno-rev3?gclid=CjwKCAjw7J6EBhBDEiwA5UUM2kiIwPj5KBX0le2F_Cw-b6Y-2dzF8z2GmRwNDn0Ixuz6hKcMwVTmTRoCmj8QAvD_BwE)) | 1 ($23.00)
-**Digital Loggers, Inc. Iot Relay** [P/N: IOT2](https://dlidirect.com/products/iot-power-relay)| 1 ($26.95)
+**Digital Loggers, Inc. Iot Relay** ([P/N: IOT2](https://dlidirect.com/products/iot-power-relay))| 1 ($26.95)
 **Herolab UV hand-held lamp Model IV (254/365 nm)** ([No. H469.1](https://www.carlroth.com/com/en/uv-hand-held-lamps/uv-hand-held-lamp-model-iv/p/h469.1?emcs0=12&emcs1=Produktdetailseite&emcs2=null&emcs3=333676)) | 1 (€566.55)
 **Herolab Accessories Table tripod For UV hand-held lamp** ([No.  H470.1](https://www.carlroth.com/com/en/uv-hand-held-lamps/accessories-table-tripod-for-uv-hand-held-lamp/p/h470.1))| 1 (€163.40)
-**A4988 Stepper Motor Driver** ([A4988-1.4A](https://www.pololu.com/product/1182)]) | 3 ($5.95 EA)
-**Adafruit full-size Breadboard** ([PRODUCT ID: 239](https://www.adafruit.com/product/239) | 1 ($5.95)
+**A4988 Stepper Motor Driver** ([A4988-1.4A](https://www.pololu.com/product/1182)]))| 3 ($5.95 EA)
+**Adafruit full-size Breadboard** ([PRODUCT ID: 239](https://www.adafruit.com/product/239)) | 1 ($5.95)
 
 Note: the IOT Relay (pictured below) allows the electrical switch to the UV lamp power supply to be controlled by the microcontroller by activating an electromagnet through the Arduino. The UV lamp power cord is plugged into the Normally Off (closed) output of the Relay Module. An external power outlet provides the AC power source to the Relay Module. More information about this Arduino controlled power outlet can be found at references [2] and [3]. 
 
