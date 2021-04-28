@@ -36,8 +36,8 @@ _[1] “Design and implementation of a low cost bio-printer modification, allowi
 _[2] “Relay Module interfacing with Arduino - Arduino Relay Module,” Electronics Hobbyists, Feb. 08, 2017. https://electronicshobbyists.com/relay-module-interfacing-with-arduino-arduino-relay-module/ (accessed Apr. 27, 2021)._
 
 ### Electrical Wiring 
-Flow chart for wiring and digital logic:
-![Electrical Wiring for Syringe Pump](/3-DPrintingCornealOrganoids/SoftwareImages/Diagram.png)
+Flow chart for wiring and digital logic based on the reference below:
+![Electrical Wiring for Syringe Pump](/3-DPrintingCornealOrganoids/SoftwareImages/Wiring.png)
 
 ### Control of specialty components
  Below is an example code from reference [2] for defining the Arduino relay input to control the AC device. Instructions for specific timing the UV light on/off signal are defined in the firmware. The lamp is plugged in the Normally Off port, and will receive a signal to initiate once printing is complete to cure for a duration of 1 minute (minimum exposure to minimize toxicity) stored in the binary code instructions uploaded to the microcontroller. 
@@ -55,3 +55,6 @@ void loop(){
   delay(5000);
 }
 ```
+### References: 
+[1] _“Arduino MIDI Stepper Synth,” Arduino Project Hub. https://create.arduino.cc/projecthub/JonJonKayne/arduino-midi-stepper-synth-d291ae 
+![image](https://user-images.githubusercontent.com/82895295/116425312-d105fc80-a807-11eb-9f4e-291729e29560.png)_
