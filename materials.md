@@ -42,14 +42,19 @@ Since nozzle sizes for this application are small, shear stress induced on encap
 
 
 ## GMP considerations
+These bioprinted cornea models are intended to be produced in relatively small quantity for reproducible organoids for early opthalmic drug testing. While it is not required that we comply with Good Manufacturing Practic (GMP) at this proof of concept stage, we have made efforts to prepare for and integrate practices of the 4 principles into our operating procedures: 
+1. Standard operating procedures (SOPs) necessitates production of 3 lots of material - typically this is one of the most considerable initial costs in manufacturing expansion. Since the actual bioprinting/curing processes will not be intensive or costly due to the small dimensions of printed material, this will help reduce time and expenses associated with scaling up production. The most demanding expenses and time requirements occur prior to the bioprinting during differentiation and maturation of cells with costly small molecules and considerable space and storage capacities to accomodate additional bioreactors/incubators. 
+2. We have extensive validation procedures in place to characterize/confirm cell identify and viability. Samples from 3 Transwells are collected from each 12-well batch throughout the printing process and designated specifically to these assays to confirm each step sucessful before continuing. Also, careful steps are taken to reduce contamination by practicing aseptic technique and maintaining cells and components separately prior to bioprinting. 
+3. The hydrogel and crosslinking components i.e. Matrigel, methacrylated collagen, crosslinking photoinitiators, allylated keratin, are relatively well-established and documented with known storage/stability limits. These recommendations will be closely followed and monitored to avoid expiration or degradation that could interfere with the integrity of our products. 
+4. Documentation is an important procedure in complying with GMP, which is why all processes relating to the bioprinting workflow: from differentiation protocols outlined in the [Cells](/3-DPrintingCornealOrganoids/cells) section, to printing and equipment maintenance- are to be maintained and updated as needed for reference and reporting. Specific timing of media components are an important factor for cell biology considerations, therefore detailed logs of cell type, differentiation day, addition of small molecules/growth factors are updated real-time by lab technicians and history of each batch is stored in a Batch Record.  
 ### In order to reduce contamination risks and protect cells during printing, lab technicians will follow these procedures:
-- Aseptic technique: using  sterile gowns, gloves, and masks while operating or preparing materials for the bioprinter. 
+- Aseptic technique: using  sterile gowns, gloves, and masks while operating or preparing materials for the bioprinter 
 - Separate bioreactors will be used for culturing each cell type
-- New material will be added and sterile filted using Millex-GP Syringe Filter 0.22 µm polyethersulfone units fore adding to extruders 
-- Components will be autoclaved (ex. nozzles after use to reduce risk of contamination) before installation
+- New material will be added and sterile filted using Millex-GP Syringe Filter 0.22 µm polyethersulfone units before adding to extruders 
+- Components will be autoclaved (ex. nozzles before/between uses to reduce risk of contamination) prior to installation
 - The unit will be housed in a standard Biosafety Hood
 - For safety: amber UV-protective goggles should be worn at all times to provide eye protection
-- The proposed order of printing the 3 matrix layers (onto prepared endothelial monolayer) is shown below in the schematic from reference [5]. The separate deposition/printing steps simplify the procedure and UV crosslinking once after all layers have been deposited avoids addition of unnecessary stress and damage to cells which enhances their viability.  
+- The proposed order of printing the 3 matrix layers (onto prepared endothelial monolayer) into a Transwell is shown below in the schematic from reference [5]. The separate deposition/printing steps simplify the procedure and UV crosslinking once after all layers have been deposited avoids addition of unnecessary stress and damage to cells which enhances their viability.  
 ![PrintingSchematic](/3-DPrintingCornealOrganoids//SoftwareImages/PrintConcept.png)
 
 ## References
