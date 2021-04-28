@@ -19,13 +19,13 @@ Item (Part Number) | Quantity (Price USD/EUR)
 
 Note: the IOT Relay (pictured below) allows the electrical switch to the UV lamp power supply to be controlled by the microcontroller by activating an electromagnet through the Arduino. The UV lamp power cord is plugged into the Normally Off (closed) output of the Relay Module. An external power outlet provides the AC power source to the Relay Module. More information about this Arduino controlled power outlet can be found at references [2] and [3]. 
 
-### IOT Power Relay Module 
+#### IOT Power Relay Module 
 ![IOT Power Relay](/3-DPrintingCornealOrganoids/SoftwareImages/IOTPowerRelay.jpg)
 
-### IOT Relay connects positive side of terminal block to pin 7 of the Arduino Uno and grounded side to the ground pin:
+#### IOT Relay connects positive side of terminal block to pin 7 of the Arduino Uno and grounded side to the ground pin:
 ![Arduino and IOT Relay Diagram](/3-DPrintingCornealOrganoids/SoftwareImages/RelayArduinoAC.png)
 
-### UV Lamp with 300 x 700 mm filter size attached to a metal tripod, height adjustable to 50-270 mm: 
+#### UV Lamp with 300 x 700 mm filter size attached to a metal tripod, height adjustable to 50-270 mm: 
 ![Handheld UV lamp connected to tripod stand](/3-DPrintingCornealOrganoids/SoftwareImages/UVLamp.jpg)
 
 Other details:
