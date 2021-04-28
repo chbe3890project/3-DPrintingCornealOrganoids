@@ -107,23 +107,22 @@ CnT-30 M.     | [CELLnTEC](https://cellntec.com/products/CnT-30/)
 
 Item         | Vendor
 ------------ | -------------
-bFGF     | Thermo
-SB431542    | Tocris
-LDN193189   | Tocris
-IWP2   | Tocris
-CHIR   | Tocris
-H-1125   | Tocris
-LDN-193189   | Tocris
-Ascorbic acid-2-phospate   | Sigma
-Human laminin-521   | Thermo
-GlutaMAX   | Thermo
-Mercaptoethanol   | Sigma
-Blebbistatin   | Sigma
-SB-505124   | Tocris
-BMP-4   | Sigma
-Collagen IV   | Sigma
-Calcein-AM   | Sigma
-Ethidium homodimer-1   | Thermo
+bFGF     | [ThermoFisher](https://www.thermofisher.com/antibody/product/Human-FGF-basic-FGF-2-bFGF-Recombinant-Protein/13256-029)
+SB431542    | [Tocris](https://www.tocris.com/products/sb-431542_1614)
+LDN193189   | [Tocris](https://www.tocris.com/products/ldn-193189-dihydrochloride_6053)
+IWP2   | [Tocris](https://www.tocris.com/products/iwp-2_3533)
+CHIR   | [Tocris](https://www.tocris.com/products/chir-99021_4423)
+H-1125   | [Tocris](https://www.tocris.com/products/h-1152-dihydrochloride_2414)
+Ascorbic acid-2-phospate   | [Sigma](https://www.sigmaaldrich.com/catalog/search?term=ascorbic+acid-2-phosphate&interface=All&N=0&mode=partialmax&lang=en&region=US&focus=product)
+Human laminin-521   | [ThermoFisher](https://www.thermofisher.com/order/catalog/product/A29249#:~:text=Recombinant%20human%20Laminin%20521%20(rhLaminin,pluripotent%20stem%20cells%20(PSCs).)
+GlutaMAX   | [ThermoFisher](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjzsICUu6HwAhWc_rMKHTi-B0MYABAAGgJxbg&ae=2&ohost=www.google.com&cid=CAESQeD2aTtxRLqbJHEndmD3J3EAZfWfmVCMRmOUeAbiUp-bJNFlVYjfZG897FJ6CJvyRayRftAkYP1M29enDF2LQn34&sig=AOD64_01uXGG6iwOkzpSzjRtTvkVNfyxCg&q&adurl&ved=2ahUKEwj0sfeTu6HwAhWGWDABHWZ1Dx0Q0Qx6BAgDEAE)
+Mercaptoethanol   | [Sigma](https://www.sigmaaldrich.com/catalog/product/aldrich/m6250?lang=en&region=US)
+Blebbistatin   | [Sigma](https://www.sigmaaldrich.com/catalog/product/sigma/b0560?lang=en&region=US)
+SB-505124   | [Tocris](https://www.tocris.com/products/sb-505124_3263)
+BMP-4   | [Sigma](https://www.sigmaaldrich.com/catalog/product/sigma/h4916?lang=en&region=US)
+Collagen IV   | [Sigma](https://www.sigmaaldrich.com/catalog/product/mm/cc076?lang=null&region=null)
+Calcein-AM   | [Sigma](https://www.sigmaaldrich.com/catalog/product/sigma/17783?lang=null&region=null)
+Ethidium homodimer-1   | [ThermoFisher](https://www.thermofisher.com/order/catalog/product/E1169)
 
 
 
