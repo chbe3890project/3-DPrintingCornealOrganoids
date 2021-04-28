@@ -41,8 +41,12 @@ Initial extrusion speed employed will be 6mm/s (Isaacson et al.). Cell viability
 Since nozzle sizes for this application are small, shear stress induced on encapsulated cells could affect viability. To reduce shear stress as much as possible, a small extrusion speed will be used to deposit bioinks into the organoid. Cell viability will be analyzed and extrusion speed optimized to achieve highest possible viability.
 
 
-## GMP considerations
-These bioprinted cornea models are intended to be produced in relatively small quantity for reproducible organoids for early opthalmic drug testing. While it is not required that we comply with Good Manufacturing Practic (GMP) at this proof of concept stage, we have made efforts to prepare for and integrate practices of the 4 principles into our operating procedures: 
+## Additional considerations
+The proposed order of printing the 3 matrix layers (onto prepared endothelial monolayer) into a Transwell is shown below in the schematic from reference [5]. The separate deposition/printing steps simplify the procedure and UV crosslinking once after all layers have been deposited avoids addition of unnecessary stress and damage to cells which enhances their viability.  
+![PrintingSchematic](/3-DPrintingCornealOrganoids//SoftwareImages/PrintConcept.png) 
+
+### GMP regulations
+These bioprinted cornea models are intended to be produced in relatively small quantities of reproducible organoids for early opthalmic drug testing. While it is not required that we comply with Good Manufacturing Practic (GMP) at this proof of concept stage, we have made efforts to prepare for and integrate practices of the 4 principles into our operating procedures: 
 1. Standard operating procedures (SOPs) necessitates production of 3 lots of material - typically this is one of the most considerable initial costs in manufacturing expansion. Since the actual bioprinting/curing processes will not be intensive or costly due to the small dimensions of printed material, this will help reduce time and expenses associated with scaling up production. The most demanding expenses and time requirements occur prior to the bioprinting during differentiation and maturation of cells with costly small molecules and considerable space and storage capacities to accomodate additional bioreactors/incubators. 
 2. We have extensive validation procedures in place to characterize/confirm cell identify and viability. Samples from 3 Transwells are collected from each 12-well batch throughout the printing process and designated specifically to these assays to confirm each step sucessful before continuing. Also, careful steps are taken to reduce contamination by practicing aseptic technique and maintaining cells and components separately prior to bioprinting. 
 3. The hydrogel and crosslinking components i.e. Matrigel, methacrylated collagen, crosslinking photoinitiators, allylated keratin, are relatively well-established and documented with known storage/stability limits. These recommendations will be closely followed and monitored to avoid expiration or degradation that could interfere with the integrity of our products. 
@@ -54,8 +58,6 @@ These bioprinted cornea models are intended to be produced in relatively small q
 - Components will be autoclaved (ex. nozzles before/between uses to reduce risk of contamination) prior to installation
 - The unit will be housed in a standard Biosafety Hood
 - For safety: amber UV-protective goggles should be worn at all times to provide eye protection
-- The proposed order of printing the 3 matrix layers (onto prepared endothelial monolayer) into a Transwell is shown below in the schematic from reference [5]. The separate deposition/printing steps simplify the procedure and UV crosslinking once after all layers have been deposited avoids addition of unnecessary stress and damage to cells which enhances their viability.  
-![PrintingSchematic](/3-DPrintingCornealOrganoids//SoftwareImages/PrintConcept.png)
 
 ## References
 [1] T. F. Dyrlund, E. T. Poulsen, C. Scavenius, C. L. Nikolajsen, I. B. Thøgersen, H. Vorum, and J. J. Enghild, “Human Cornea Proteome: Identification and Quantitation of the Proteins of the Three Main Layers Including Epithelium, Stroma, and Endothelium,” Journal of Proteome Research, vol. 11, no. 8, pp. 4231–4239, 2012. 
