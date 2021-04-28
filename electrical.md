@@ -8,7 +8,7 @@
 
 ### Bill of Materials (commercial only - no wires/connectors)
 
-Item (Part Number) | Quantity (Price USD)
+Item (Part Number) | Quantity (Price USD/EUR)
 ----------------- | ------------------
 **Microcontroller board: Arduino UNO Rev3** ([A000066](https://store.arduino.cc/usa/arduino-uno-rev3?gclid=CjwKCAjw7J6EBhBDEiwA5UUM2kiIwPj5KBX0le2F_Cw-b6Y-2dzF8z2GmRwNDn0Ixuz6hKcMwVTmTRoCmj8QAvD_BwE)) | 1 ($23.00)
 **Digital Loggers, Inc. Iot Relay** ([P/N: IOT2](https://dlidirect.com/products/iot-power-relay))| 1 ($26.95)
