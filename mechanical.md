@@ -11,13 +11,14 @@
 
 Item         | Quantity
 ------------ | -------------
-[NEMA 17 Stepper Motor](https://www.mcmaster.com/6627T66/) | 3
+[NEMA 17 Stepper Motor](https://www.mcmaster.com/6627T66/) | 1
 [Threaded Rod - 8mm (M8 x 1.25mm, 300mm)](https://www.mcmaster.com/1078N32) | 1
 [Linear Rod - 8mm (200mm)](https://www.mcmaster.com/6112K44/) | 1
 [Aluminum Extrusion (1ft)](https://www.mcmaster.com/47065T107-47065T418/) | 1
 [Linear Bearing - 8mm](https://www.mcmaster.com/61205K75/) | 1
 [M8 Hex Nut](https://www.mcmaster.com/90592A022/) | 1
-[T Nut and Bold](https://www.mcmaster.com/47065T139/) | 1
+[T Nut and Bolt](https://www.mcmaster.com/47065T139/) | 1
+[3D Desktop Printer](https://www.amazon.com/s?k=3d+printer) | 1
 
 
 ## Fusion 360 Model(s)
@@ -42,6 +43,14 @@ The locking mechanism could be adhesively attached to both the syringe pump casi
 We designed this extrusion holder to fit the syringe pump within, so the mechanism could then work vertically when attached to the 3D Printer. The holder, would fit tubing into the syringe and out the front hole, that could then flow to the needle yoke on the extruder. 
 
 <iframe src="https://vanderbilt422.autodesk360.com/shares/public/SH56a43QTfd62c1cd9681d317e25834465e0?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+## Cost Analysis
+
+As this would be an add on to any 3D printer, the cost would be low. PLA could be used to print the parts, and it would cost about $100 to build the syringe pump after ordering all of the parts from McMaster Carr and the Stepper Motor. A cheap 3D Printer could be purchased for less than $200, making the entire pump purchase around $300 total. 
+
+## References
+
+The Step File for the 3D Printer model was obtained on GrabCad [here](https://grabcad.com/library/3d-printer-396)
 
 
 
