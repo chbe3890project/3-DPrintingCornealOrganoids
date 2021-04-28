@@ -14,7 +14,7 @@ Item (Part Number) | Quantity (Price USD/EUR)
 **Digital Loggers, Inc. Iot Relay** ([P/N: IOT2](https://dlidirect.com/products/iot-power-relay))| 1 ($26.95)
 **Herolab UV hand-held lamp Model IV (254/365 nm)** ([No. H469.1](https://www.carlroth.com/com/en/uv-hand-held-lamps/uv-hand-held-lamp-model-iv/p/h469.1?emcs0=12&emcs1=Produktdetailseite&emcs2=null&emcs3=333676)) | 1 (€566.55)
 **Herolab Accessories Table tripod For UV hand-held lamp** ([No.  H470.1](https://www.carlroth.com/com/en/uv-hand-held-lamps/accessories-table-tripod-for-uv-hand-held-lamp/p/h470.1))| 1 (€163.40)
-**A4988 Stepper Motor Driver** ([A4988-1.4A](https://www.pololu.com/product/1182)]))| 3 ($5.95 EA)
+**A4988 Stepper Motor Driver** ([A4988-1.4A](https://www.pololu.com/product/1182))| 3 ($5.95 EA)
 **Adafruit full-size Breadboard** ([PRODUCT ID: 239](https://www.adafruit.com/product/239)) | 1 ($5.95)
 
 Note: the IOT Relay (pictured below) allows the electrical switch to the UV lamp power supply to be controlled by the microcontroller by activating an electromagnet through the Arduino. The UV lamp power cord is plugged into the Normally Off (closed) output of the Relay Module. An external power outlet provides the AC power source to the Relay Module. More information about this Arduino controlled power outlet can be found at references [2] and [3]. 
@@ -55,9 +55,6 @@ void loop(){
 ### References: 
 
 [1] “Design and implementation of a low cost bio-printer modification, allowing for switching between plastic and gel extrusion | Elsevier Enhanced Reader.”
-
 [2] “Arduino MIDI Stepper Synth,” Arduino Project Hub. https://create.arduino.cc/projecthub/JonJonKayne/arduino-midi-stepper-synth-d291ae.
-
 [3] “Relay Module interfacing with Arduino - Arduino Relay Module,” Electronics Hobbyists, Feb. 08, 2017. https://electronicshobbyists.com/relay-module-interfacing-with-arduino-arduino-relay-module/.
-
 [4] S. C.| Arduino | 65, “Turn Any Appliance into a Smart Device with an Arduino Controlled Power Outlet,” Circuit Basics, Nov. 19, 2015. https://www.circuitbasics.com/build-an-arduino-controlled-power-outlet/.
