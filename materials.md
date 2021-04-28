@@ -41,11 +41,17 @@ Initial extrusion speed employed will be 6mm/s (Isaacson et al.). Cell viability
 Since nozzle sizes for this application are small, shear stress induced on encapsulated cells could affect viability. To reduce shear stress as much as possible, a small extrusion speed will be used to deposit bioinks into the organoid. Cell viability will be analyzed and extrusion speed optimized to achieve highest possible viability.
 
 ## Bill of Materials
-Item | Vendor
------------- | -------------
-PhotoCol(R)-Irg Kit  | kjlka
-Keratin              | N/A
-Irgacure 2959        | ljals
+Item | Vendor | Intended Use
+------------ | ------------- | -------------
+PhotoCol(R)-Irg Kit  | Advanced Biomatrix | Collagen Bionk
+Keratin              | N/A | Keratin Bioink
+Sodium Dodecyl Sulfate | VWR International | Keratin Extraction
+Tris(2-carboxyethyl) phosphine  | VWR International | Keratin Extraction
+Trimethylbenzenesulfonyl)hydroxylamine | Angene International Limited | Allylation of Keratin
+Allyl mercaptan | VWR International | Allylation of Keratin
+Irgacure 2959        | Ciba Specialty Chemicals | Keratin Bioink Photoinitiator
+30G blunt needle     | CELLINK | Print Nozzle
+34G blunt needle     | CELLINK | Print Nozzle
 
 ## Additional Considerations
 The proposed order of printing the 3 matrix layers (onto prepared endothelial monolayer) into a Transwell is shown below in the schematic from reference [5]. The separate deposition/printing steps simplify the procedure and UV crosslinking once after all layers have been deposited avoids addition of unnecessary stress and damage to cells which enhances their viability.  
